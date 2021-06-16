@@ -9,7 +9,7 @@
                 <a target="_blank" href="#">
                   <img
                     class="img-fluid"
-                    src="assetc/images/socail/onnorokom_logo.png"
+                    src="assets/images/socail/onnorokom_logo.png"
                     alt="onnorokom"
                   />
                 </a>
@@ -17,7 +17,7 @@
   
               <div class="footer-basic-info">
                 <p>
-                  <img src="assetc/images/socail/icon-hotline.png" alt="hotline" />
+                  <img src="assets/images/socail/icon-hotline.png" alt="hotline" />
                   Hotline
                   <em>
                     16297,
@@ -26,16 +26,16 @@
                   </em>
                 </p>
                 <p>
-                  <img src="assetc/images/socail/icon-corporate.png" alt="hotline" />
+                  <img src="assets/images/socail/icon-corporate.png" alt="hotline" />
                   Corporate Sales
                   <em> +8801708166238, +8801708166239, +8801708166242 </em>
                 </p>
                 <p>
-                  <img class="mail" src="assetc/images/socail/icon-mail.png" alt="mail" />
+                  <img class="mail" src="assets/images/socail/icon-mail.png" alt="mail" />
                   <a target="_blank" href="#"> admin@rokomari.com </a>
                 </p>
                 <p>
-                  <img src="assetc/images/socail/icon_home.png" alt="home" />
+                  <img src="assets/images/socail/icon_home.png" alt="home" />
                   2/1/E, Eden Center, Arambag, Motijheel, Dhaka-1000
                 </p>
               </div>
@@ -44,25 +44,25 @@
               <div class="social-links">
                 <p>Stay Connected</p>
                 <a target="_blank" href="#">
-                  <img src="assetc/images/socail/facebook.png" alt="facebook" />
+                  <img src="assets/images/socail/facebook.png" alt="facebook" />
                 </a>
                 <a target="_blank" href="#">
-                  <img src="assetc/images/socail/twitter.png" alt="twitter" />
+                  <img src="assets/images/socail/twitter.png" alt="twitter" />
                 </a>
                 <a target="_blank" href="#">
-                  <img src="assetc/images/socail/linkedin.png" alt="linkdine" />
+                  <img src="assets/images/socail/linkedin.png" alt="linkdine" />
                 </a>
                 <a target="_blank" href="#">
                   <img
                     class="instra"
-                    src="assetc/images/socail/instagram.png"
+                    src="assets/images/socail/instagram.png"
                     alt="facebook"
                   />
                 </a>
                 <a target="_blank" href="#">
                   <img
                     class="youtube"
-                    src="assetc/images/socail/youtube.png"
+                    src="assets/images/socail/youtube.png"
                     alt="facebook"
                   />
                 </a>
@@ -237,16 +237,16 @@
   
                     <div class="app-icon">
                       <p class="title">
-                        <img src="assetc/images/socail/icon-rok.png" alt="icon">
+                        <img src="assets/images/socail/icon-rok.png" alt="icon">
                         <span>Download App</span>
   
                       </p>
                       <a target="_blank" href="#">
-                        <img src="assetc/images/socail/icon-app-store.png" alt="app-store" width="125">
+                        <img src="assets/images/socail/icon-app-store.png" alt="app-store" width="125">
   
                       </a>
                       <a target="_blank" href="#">
-                        <img src="assetc/images/socail/icon-play-store.png" alt="play-store" width="125">
+                        <img src="assets/images/socail/icon-play-store.png" alt="play-store" width="125">
   
                       </a>
   
@@ -271,14 +271,14 @@
             <div class="d-flex justify-content-center">
               <div class="payment-option">
                 <p class="align-middle">We accept payment via </p>
-                <img class="cod" src="assetc/images/socail/cod.png" alt="cod" title="Cash on Delevery">
-                <img class="bkash" src="assetc/images/socail/bkash.png" alt="bkash" title="bkash">
-                <img class="visa" src="assetc/images/socail/visa.png" alt="visa" title="visa">
-                <img class="master-card" src="assetc/images/socail/master-card.png" alt="master-card" title="master-card">
-                <img class="amex-card" src="assetc/images/socail/amex-card.png" alt="amex-card" title="American Express">
-                <img class="roket" src="assetc/images/socail/rocket.png" alt="roket" title="Roket">
-                <img class="city-bank" src="assetc/images/socail/city-bank.png" alt="city-bank" title="city-bank">
-                <img class="dmoney" src="assetc/images/socail/dmoney.png" alt="dmoney" title="Dmoney" width="120px">
+                <img class="cod" src="assets/images/socail/cod.png" alt="cod" title="Cash on Delevery">
+                <img class="bkash" src="assets/images/socail/bkash.png" alt="bkash" title="bkash">
+                <img class="visa" src="assets/images/socail/visa.png" alt="visa" title="visa">
+                <img class="master-card" src="assets/images/socail/master-card.png" alt="master-card" title="master-card">
+                <img class="amex-card" src="assets/images/socail/amex-card.png" alt="amex-card" title="American Express">
+                <img class="roket" src="assets/images/socail/rocket.png" alt="roket" title="Roket">
+                <img class="city-bank" src="assets/images/socail/city-bank.png" alt="city-bank" title="city-bank">
+                <img class="dmoney" src="assets/images/socail/dmoney.png" alt="dmoney" title="Dmoney" width="120px">
                 
                 
                 
@@ -331,12 +331,12 @@
 
       
 
-    <script type="text/javascript" src="assetc/js/jquery.min.js"></script>
+    <script type="text/javascript" src="assets/js/jquery.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/typed.js/2.0.5/typed.min.js" integrity="sha512-1KbKusm/hAtkX5FScVR5G36wodIMnVd/aP04af06iyQTkD17szAMGNmxfNH+tEuFp3Og/P5G32L1qEC47CZbUQ==" crossorigin="anonymous"></script>
-    <script type="text/javascript" src="assetc/js/costom.js"></script>
-    <script type="text/javascript" src="assetc/js/jquery.nivo.slider.js"></script>
+    <script type="text/javascript" src="assets/js/costom.js"></script>
+    <script type="text/javascript" src="assets/js/jquery.nivo.slider.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.js" integrity="sha512-WNZwVebQjhSxEzwbettGuQgWxbpYdoLf7mH+25A7sfQbbxKeS5SQ9QBf97zOY4nOlwtksgDA/czSTmfj4DUEiQ==" crossorigin="anonymous"></script>
     <script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v10.0&appId=606286466830817&autoLogAppEvents=1" nonce="ipk9gynZ"></script>
     <script>

@@ -229,7 +229,7 @@
                 <div class="row">
                     <div class="col-md-12">
                         <div class="SideBarMainContentImgWrap">
-                            <img src="assetc/images/instock-2.png" alt="">
+                            <img src="assets/images/instock-2.png" alt="">
                         </div> 
                     </div>
                 </div>
@@ -258,10 +258,10 @@
                                                 <a href="#">
                                                     <div class="SideBar-book-img-wrap">
                                                         <div class="SideBar-bookimg">
-                                                            <img src="assetc/images/book/mukush.png" alt="">
+                                                            <img src="assets/images/book/mukush.png" alt="">
                                                         </div>
                                                         <div class="SideBar-discount-badge">
-                                                            <img src="assetc/images/book/discount.png" alt="">
+                                                            <img src="assets/images/book/discount.png" alt="">
                                                             <b>25</b>
                                                         </div> 
                                                         <div class="SideBar-add-toCard-btn">
@@ -299,10 +299,10 @@
                                                 <a href="#">
                                                     <div class="SideBar-book-img-wrap">
                                                         <div class="SideBar-bookimg">
-                                                            <img src="assetc/images/book/mukush.png" alt="">
+                                                            <img src="assets/images/book/mukush.png" alt="">
                                                         </div>
                                                         <div class="SideBar-discount-badge">
-                                                            <img src="assetc/images/book/discount.png" alt="">
+                                                            <img src="assets/images/book/discount.png" alt="">
                                                             <b>25</b>
                                                         </div> 
                                                         <div class="SideBar-add-toCard-btn">
@@ -339,10 +339,10 @@
                                                 <a href="#">
                                                     <div class="SideBar-book-img-wrap">
                                                         <div class="SideBar-bookimg">
-                                                            <img src="assetc/images/book/mukush.png" alt="">
+                                                            <img src="assets/images/book/mukush.png" alt="">
                                                         </div>
                                                         <div class="SideBar-discount-badge">
-                                                            <img src="assetc/images/book/discount.png" alt="">
+                                                            <img src="assets/images/book/discount.png" alt="">
                                                             <b>25</b>
                                                         </div> 
                                                         <div class="SideBar-add-toCard-btn">
@@ -379,10 +379,10 @@
                                                 <a href="#">
                                                     <div class="SideBar-book-img-wrap">
                                                         <div class="SideBar-bookimg">
-                                                            <img src="assetc/images/book/mukush.png" alt="">
+                                                            <img src="assets/images/book/mukush.png" alt="">
                                                         </div>
                                                         <div class="SideBar-discount-badge">
-                                                            <img src="assetc/images/book/discount.png" alt="">
+                                                            <img src="assets/images/book/discount.png" alt="">
                                                             <b>25</b>
                                                         </div> 
                                                         <div class="SideBar-add-toCard-btn">
@@ -445,10 +445,10 @@
                                                 <a href="#">
                                                     <div class="SideBar-book-img-wrap">
                                                         <div class="SideBar-bookimg">
-                                                            <img src="assetc/images/book/mukush.png" alt="">
+                                                            <img src="assets/images/book/mukush.png" alt="">
                                                         </div>
                                                         <div class="SideBar-discount-badge">
-                                                            <img src="assetc/images/book/discount.png" alt="">
+                                                            <img src="assets/images/book/discount.png" alt="">
                                                             <b>25</b>
                                                         </div> 
                                                         <div class="SideBar-add-toCard-btn">
@@ -486,10 +486,10 @@
                                                 <a href="#">
                                                     <div class="SideBar-book-img-wrap">
                                                         <div class="SideBar-bookimg">
-                                                            <img src="assetc/images/book/mukush.png" alt="">
+                                                            <img src="assets/images/book/mukush.png" alt="">
                                                         </div>
                                                         <div class="SideBar-discount-badge">
-                                                            <img src="assetc/images/book/discount.png" alt="">
+                                                            <img src="assets/images/book/discount.png" alt="">
                                                             <b>25</b>
                                                         </div> 
                                                         <div class="SideBar-add-toCard-btn">
@@ -526,10 +526,10 @@
                                                 <a href="#">
                                                     <div class="SideBar-book-img-wrap">
                                                         <div class="SideBar-bookimg">
-                                                            <img src="assetc/images/book/mukush.png" alt="">
+                                                            <img src="assets/images/book/mukush.png" alt="">
                                                         </div>
                                                         <div class="SideBar-discount-badge">
-                                                            <img src="assetc/images/book/discount.png" alt="">
+                                                            <img src="assets/images/book/discount.png" alt="">
                                                             <b>25</b>
                                                         </div> 
                                                         <div class="SideBar-add-toCard-btn">
@@ -566,10 +566,10 @@
                                                 <a href="#">
                                                     <div class="SideBar-book-img-wrap">
                                                         <div class="SideBar-bookimg">
-                                                            <img src="assetc/images/book/mukush.png" alt="">
+                                                            <img src="assets/images/book/mukush.png" alt="">
                                                         </div>
                                                         <div class="SideBar-discount-badge">
-                                                            <img src="assetc/images/book/discount.png" alt="">
+                                                            <img src="assets/images/book/discount.png" alt="">
                                                             <b>25</b>
                                                         </div> 
                                                         <div class="SideBar-add-toCard-btn">

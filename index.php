@@ -11,10 +11,10 @@
         <div class="slider-wrapper theme-default">
             <div id="NivoSlider" class="nivoSlider"> 
                 <a href="#">
-                    <img src="assetc/images/slider1.png" data-thumb="assetc/images/slider1.png" alt="" title="" />
+                    <img src="assets/images/slider1.png" data-thumb="assets/images/slider1.png" alt="" title="" />
                 </a> 
                 <a href="#">
-                    <img src="assetc/images/slider2.png" data-thumb="assetc/images/slider2.png" alt="" title="" />
+                    <img src="assets/images/slider2.png" data-thumb="assets/images/slider2.png" alt="" title="" />
                 </a> 
             </div>
         </div>
@@ -26,13 +26,13 @@
     <div class="container">
         <div  class="row">
             <div class="col-md-4 p-1">
-               <a href="#"> <img src="assetc/images/bannar1.png" alt=""></a>
+               <a href="#"> <img src="assets/images/bannar1.png" alt=""></a>
             </div>
             <div class="col-md-4 p-1">
-                <a href="#"> <img src="assetc/images/bannar2.png" alt=""></a>
+                <a href="#"> <img src="assets/images/bannar2.png" alt=""></a>
             </div>
             <div class="col-md-4 p-1">
-                <a href="#"> <img src="assetc/images/bannar3.png" alt=""></a>
+                <a href="#"> <img src="assets/images/bannar3.png" alt=""></a>
             </div>
         </div>
         
@@ -43,7 +43,7 @@
     <div class="container">
         <div class="row">
             <div class="col-md-12">
-                <center><img class="LederTitle" src="assetc/images/leader-board-title.png" alt="" width="60%"></center>
+                <center><img class="LederTitle" src="assets/images/leader-board-title.png" alt="" width="60%"></center>
             </div>
         </div>
     </div>
@@ -59,7 +59,7 @@
             <div class="row">
                 <div class="col-md-4">
                     <div class="cardt">
-                        <img src="assetc/images/img-best-seller.png" alt="">
+                        <img src="assets/images/img-best-seller.png" alt="">
                         <select class="options">
                             <option value="volvo" selected>All categories</option>
                             <option value="saab">উপন্যাস</option>
@@ -86,7 +86,7 @@
                         <div class="book">
                             
                             <h3 style="color: rgb(250, 162, 146); text-align: left; margin-left: 2px;">1</h3>
-                            <img  src="assetc/images/d774abe23_206592.jpg" alt="book2">
+                            <img  src="assets/images/d774abe23_206592.jpg" alt="book2">
                             <div class="book-text">
                                 <h5>ঘরে বসে Spoken English</h5>
                                 <h6>মুনজেরিন শহীদ</h6>
@@ -96,7 +96,7 @@
                         <div class="book">
                             
                             <h3 style="color: rgb(250, 162, 146); text-align: left; margin-left: 2px;">2</h3>
-                            <img  src="assetc/images/e2227de97_208776.jpg" alt="book2">
+                            <img  src="assets/images/e2227de97_208776.jpg" alt="book2">
                             <div class="book-text">
                                 <h5>মুসলিম জাতি বিশ্বকে কি দিয়েছে</h5>
                                 <h5>১-৪ খণ্ড</h5>
@@ -107,7 +107,7 @@
                         <div class="book">
                             
                             <h3 style="color: rgb(250, 162, 146); text-align: left; margin-left: 2px;">3</h3>
-                            <img  src="assetc/images/7a06e8a86_205949.jpg" alt="book3">
+                            <img  src="assets/images/7a06e8a86_205949.jpg" alt="book3">
                             <div class="book-text">
                                 <h5>শেষ</h5>
                                 <h6>জুনায়েদ ইভান</h6>
@@ -117,7 +117,7 @@
                         <div class="book">
                             
                             <h3 style="color: rgb(167, 164, 164); text-align: left; margin-left: 2px;">4</h3>
-                            <img  src="assetc/images/f708833f6_206311.jpg" alt="book4">
+                            <img  src="assets/images/f708833f6_206311.jpg" alt="book4">
                             <div class="book-text">
                                 <h5>তোমার নামে সন্ধ্যা নামে</h5>
                                 <h6>সাদাত হোসাইন</h6>
@@ -127,7 +127,7 @@
                         <div class="book">
                             
                             <h3 style="color: rgb(167, 164, 164); text-align: left; margin-left: 2px;">5</h3>
-                            <img  src="assetc/images/e19fc387a_212325.jpg" alt="book5">
+                            <img  src="assets/images/e19fc387a_212325.jpg" alt="book5">
                             <div class="book-text">
                                 <h5>সবার জন্য Vocabulary</h5>
                                 <h6>মুনজেরিন শহীদ</h6>
@@ -143,7 +143,7 @@
                     <!---------------------------------- cardt1 --------------------------------------->
                 <div class="col-md-4">
                     <div class="cardt1">
-                        <img src="assetc/images/img-best-author.png" alt="">
+                        <img src="assets/images/img-best-author.png" alt="">
                         <select class="options">
                             <option value="volvo" selected>All categories</option>
                             <option value="saab">উপন্যাস</option>
@@ -169,20 +169,20 @@
                         </div>
                         <div class="image-topper">
                             <div class="img1">
-                                <img src="assetc/images/707117900_79296.jpg" alt="">
+                                <img src="assets/images/707117900_79296.jpg" alt="">
                                 <h6 class="badgey">2</h6>
                                 <h5 style="text-align: left; font-size: 13px; cursor: pointer;"><b>জুনায়েদ ইভান</b></h5>
                             </div>
-                            <img style="background: transparent; width: 35px; height: 35px; position: absolute; top: 5.5px; left: 110px;" src="assetc/images/icon-winner-author.png" alt="">
+                            <img style="background: transparent; width: 35px; height: 35px; position: absolute; top: 5.5px; left: 110px;" src="assets/images/icon-winner-author.png" alt="">
                             <div class="img2">
-                                <img src="assetc/images/a721f57c3_79420.jpg" alt="">
+                                <img src="assets/images/a721f57c3_79420.jpg" alt="">
                                 <h6 class="badgey1">1</h6>
                                 <h5 style="text-align: left; font-size: 13px; cursor: pointer;"><b>মুনজেরিন শহীদ</b></h5>
                             </div>
                                 
                             
                             <div class="img3">
-                                <img src="assetc/images/90fec8a35_5717.jpg" alt="">
+                                <img src="assets/images/90fec8a35_5717.jpg" alt="">
                                 <h6 class="badgey2">3</h6>
                                 <h5 style="text-align: left; font-size: 13px; cursor: pointer;"><b>সাদাত হোসাইন</b></h5>
                             </div> 
@@ -190,7 +190,7 @@
                         <div class="book">
                             
                             <h3 style="color: rgb(167, 164, 164); text-align: left; margin-left: 2px;">4</h3>
-                            <img style="border-radius: 50%; height: 50px; width: 50px;" src="assetc/images/48b3ddf363f4_26452.jpg" alt="book3">
+                            <img style="border-radius: 50%; height: 50px; width: 50px;" src="assets/images/48b3ddf363f4_26452.jpg" alt="book3">
                             <div class="book-text">
                                 <h5 style="margin-left: 13px;">মহিউদ্দিন আহমদ</h5>
                                 
@@ -200,7 +200,7 @@
                         <div class="book">
                             
                             <h3 style="color: rgb(167, 164, 164); text-align: left; margin-left: 2px;">5</h3>
-                            <img style="border-radius: 50%; height: 50px; width: 50px;" src="assetc/images/b58523428_60046.jpg" alt="book4">
+                            <img style="border-radius: 50%; height: 50px; width: 50px;" src="assets/images/b58523428_60046.jpg" alt="book4">
                             <div class="book-text">
                             <h5 style="margin-left: 13px;">মৌরি মরিয়ম</h5>
                             </div>
@@ -209,7 +209,7 @@
                         <div class="book" style="border-bottom: .8px solid #ddd;">
                             
                             <h3 style="color: rgb(167, 164, 164); text-align: left; margin-left: 2px;">6</h3>
-                            <img style="border-radius: 50%; height: 50px; width: 50px;" src="assetc/images/66a719ebe_79355.jpg" alt="book5">
+                            <img style="border-radius: 50%; height: 50px; width: 50px;" src="assets/images/66a719ebe_79355.jpg" alt="book5">
                             <div class="book-text">
                             <h5 style="margin-left: 13px;">রাজীব হোসেন</h5>
                             </div>
@@ -226,7 +226,7 @@
                 <div class="col-md-4">
                     <div class="cardt-wrapper">
                         <div class="accordt cardt2" id="item1">
-                            <a href="#item1"><img src="assetc/images/img-best-reviewer.png" alt=""></a>
+                            <a href="#item1"><img src="assets/images/img-best-reviewer.png" alt=""></a>
                             <div class="accord">
                                 <div class="contain">
                                     <ul>
@@ -238,7 +238,7 @@
                                 <div class="book">
                                     
                                     <h3 style="color: rgb(167, 164, 164); text-align: left; margin-left: 2px;">1</h3>
-                                    <img style="border-radius: 50%; height: 50px; width: 50px;" src="assetc/images/male.png" alt="book3">
+                                    <img style="border-radius: 50%; height: 50px; width: 50px;" src="assets/images/male.png" alt="book3">
                                     <div class="book-text">
                                         <h5 style="margin-left: 13px;">Antik Mahmud</h5>
                                         
@@ -248,7 +248,7 @@
                                 <div class="book">
                                     
                                     <h3 style="color: rgb(167, 164, 164); text-align: left; margin-left: 2px;">2</h3>
-                                    <img style="border-radius: 50%; height: 50px; width: 50px;" src="assetc/images/male.png" alt="book4">
+                                    <img style="border-radius: 50%; height: 50px; width: 50px;" src="assets/images/male.png" alt="book4">
                                     <div class="book-text">
                                     <h5 style="margin-left: 13px;">Imran Hasan</h5>
                                     </div>
@@ -257,7 +257,7 @@
                                 <div class="book">
                                     
                                     <h3 style="color: rgb(167, 164, 164); text-align: left; margin-left: 2px;">3</h3>
-                                    <img style="border-radius: 50%; height: 50px; width: 50px;" src="assetc/images/male.png" alt="book4">
+                                    <img style="border-radius: 50%; height: 50px; width: 50px;" src="assets/images/male.png" alt="book4">
                                     <div class="book-text">
                                     <h5 style="margin-left: 13px;">Md Farid Uddin Rony</h5>
                                     </div>
@@ -266,7 +266,7 @@
                                 <div class="book">
                                     
                                     <h3 style="color: rgb(167, 164, 164); text-align: left; margin-left: 2px;">4</h3>
-                                    <img style="border-radius: 50%; height: 50px; width: 50px;" src="assetc/images/male.png" alt="book4">
+                                    <img style="border-radius: 50%; height: 50px; width: 50px;" src="assets/images/male.png" alt="book4">
                                     <div class="book-text">
                                     <h5 style="margin-left: 13px;">eva newaz</h5>
                                     </div>
@@ -285,7 +285,7 @@
                 
                 
                             <div class="accordt cardt3" id="item2">
-                                <a href="#item2"><img src="assetc/images/img-best-buyer.png" alt=""></a>
+                                <a href="#item2"><img src="assets/images/img-best-buyer.png" alt=""></a>
                                 <div class="accord">
                                     <select class="options">
                                         <option value="volvo" selected>User</option>
@@ -301,7 +301,7 @@
                                     <div class="book" style="padding-top: 30px;">
                                         
                                         <h3 style="color: rgb(167, 164, 164); text-align: left; margin-left: 2px;">1</h3>
-                                        <img style="border-radius: 50%; height: 50px; width: 50px;" src="assetc/images/male.png" alt="book3">
+                                        <img style="border-radius: 50%; height: 50px; width: 50px;" src="assets/images/male.png" alt="book3">
                                         <div class="book-text">
                                             <h5 style="margin-left: 13px;">Square Pharmaceauticals</h5>
                                             <h5 style="margin-left: 13px;">Limited</h5>
@@ -313,7 +313,7 @@
                                     <div class="book"style="padding-top: 30px;">
                                         
                                         <h3 style="color: rgb(167, 164, 164); text-align: left; margin-left: 2px;">2</h3>
-                                        <img style="border-radius: 50%; height: 50px; width: 50px;" src="assetc/images/male.png" alt="book4">
+                                        <img style="border-radius: 50%; height: 50px; width: 50px;" src="assets/images/male.png" alt="book4">
                                         <div class="book-text">
                                         <h5 style="margin-left: 13px;">Major Mohammad</h5>
                                         <h5 style="margin-left: 13px;">Anisuzzaman</h5>
@@ -326,7 +326,7 @@
                                     <div class="book">
                                         
                                         <h3 style="color: rgb(167, 164, 164); text-align: left; margin-left: 2px;">3</h3>
-                                        <img style="border-radius: 50%; height: 50px; width: 50px;" src="assetc/images/male.png" alt="book4">
+                                        <img style="border-radius: 50%; height: 50px; width: 50px;" src="assets/images/male.png" alt="book4">
                                         <div class="book-text">
                                         <h5 style="margin-left: 13px;">Redwanul Haque</h5>
                                         <h6>Mob:01 ... 8093</h6>
@@ -352,7 +352,7 @@
                 
                 
                                 <div class="accordt cardt4" id="item3">
-                                    <a href="#item3"><img src="assetc/images/img-best-publisher.png" alt=""></a>
+                                    <a href="#item3"><img src="assets/images/img-best-publisher.png" alt=""></a>
                                     <div class="accord">
                                         <div class="contain">
                                             <ul>
@@ -364,7 +364,7 @@
                                         <div class="book">
                                             
                                             <h3 style="color: rgb(167, 164, 164); text-align: left; margin-left: 2px;">4</h3>
-                                            <img style="border-radius: 50%; height: 50px; width: 50px;" src="assetc/images/d79ef1da9_58.jpg" alt="book3">
+                                            <img style="border-radius: 50%; height: 50px; width: 50px;" src="assets/images/d79ef1da9_58.jpg" alt="book3">
                                             <div class="book-text">
                                                 <h5 style="margin-left: 13px;">তাম্রলিপি</h5>
                                                 
@@ -374,7 +374,7 @@
                                         <div class="book">
                                             
                                             <h3 style="color: rgb(167, 164, 164); text-align: left; margin-left: 2px;">5</h3>
-                                            <img style="border-radius: 50%; height: 50px; width: 50px;" src="assetc/images/f405172f2_91.png" alt="book4">
+                                            <img style="border-radius: 50%; height: 50px; width: 50px;" src="assets/images/f405172f2_91.png" alt="book4">
                                             <div class="book-text">
                                             <h5 style="margin-left: 13px;">আদর্শ</h5>
                                             </div>
@@ -383,7 +383,7 @@
                                         <div class="book">
                                             
                                             <h3 style="color: rgb(167, 164, 164); text-align: left; margin-left: 2px;">5</h3>
-                                            <img style="border-radius: 50%; height: 50px; width: 50px;" src="assetc/images/b7adef6a9_6854.jpg" alt="book4">
+                                            <img style="border-radius: 50%; height: 50px; width: 50px;" src="assets/images/b7adef6a9_6854.jpg" alt="book4">
                                             <div class="book-text">
                                             <h5 style="margin-left: 13px;">সমকালীন প্রকাশন</h5>
                                             </div>
@@ -392,7 +392,7 @@
                                         <div class="book">
                                             
                                             <h3 style="color: rgb(167, 164, 164); text-align: left; margin-left: 2px;">5</h3>
-                                            <img style="border-radius: 50%; height: 50px; width: 50px;" src="assetc/images/317fbb4d0_5351.jpg" alt="book4">
+                                            <img style="border-radius: 50%; height: 50px; width: 50px;" src="assets/images/317fbb4d0_5351.jpg" alt="book4">
                                             <div class="book-text">
                                             <h5 style="margin-left: 13px;">গার্ডিয়ান পাবলিকেশনস</h5>
                                             </div>
@@ -435,14 +435,14 @@
                             <a href="#">
                                 <div class="book-img-wrap">
                                     <div class="bookimg">
-                                        <img src="assetc/images/book/mukush.png" alt="">
+                                        <img src="assets/images/book/mukush.png" alt="">
                                     </div>
                                     <div class="discount-badge">
-                                        <img src="assetc/images/book/discount.png" alt="">
+                                        <img src="assets/images/book/discount.png" alt="">
                                         <b>25</b>
                                     </div>
                                     <div class="insideDisc">
-                                        <img src="assetc/images/book/insideDisc.png" alt="">
+                                        <img src="assets/images/book/insideDisc.png" alt="">
                                     </div>
                                     <div class="add-toCard-btn">
                                        <a href="#">
@@ -481,14 +481,14 @@
                             <a href="#">
                                 <div class="book-img-wrap">
                                     <div class="bookimg">
-                                        <img src="assetc/images/book/mukush.png" alt="">
+                                        <img src="assets/images/book/mukush.png" alt="">
                                     </div>
                                     <div class="discount-badge">
-                                        <img src="assetc/images/book/discount.png" alt="">
+                                        <img src="assets/images/book/discount.png" alt="">
                                         <b>25</b>
                                     </div>
                                     <div class="insideDisc">
-                                        <img src="assetc/images/book/insideDisc.png" alt="">
+                                        <img src="assets/images/book/insideDisc.png" alt="">
                                     </div>
                                     <div class="add-toCard-btn">
                                        <a href="#">
@@ -527,14 +527,14 @@
                             <a href="#">
                                 <div class="book-img-wrap">
                                     <div class="bookimg">
-                                        <img src="assetc/images/book/mukush.png" alt="">
+                                        <img src="assets/images/book/mukush.png" alt="">
                                     </div>
                                     <div class="discount-badge">
-                                        <img src="assetc/images/book/discount.png" alt="">
+                                        <img src="assets/images/book/discount.png" alt="">
                                         <b>25</b>
                                     </div>
                                     <div class="insideDisc">
-                                        <img src="assetc/images/book/insideDisc.png" alt="">
+                                        <img src="assets/images/book/insideDisc.png" alt="">
                                     </div>
                                     <div class="add-toCard-btn">
                                        <a href="#">
@@ -573,14 +573,14 @@
                             <a href="#">
                                 <div class="book-img-wrap">
                                     <div class="bookimg">
-                                        <img src="assetc/images/book/mukush.png" alt="">
+                                        <img src="assets/images/book/mukush.png" alt="">
                                     </div>
                                     <div class="discount-badge">
-                                        <img src="assetc/images/book/discount.png" alt="">
+                                        <img src="assets/images/book/discount.png" alt="">
                                         <b>25</b>
                                     </div>
                                     <div class="insideDisc">
-                                        <img src="assetc/images/book/insideDisc.png" alt="">
+                                        <img src="assets/images/book/insideDisc.png" alt="">
                                     </div>
                                     <div class="add-toCard-btn">
                                        <a href="#">
@@ -618,14 +618,14 @@
                             <a href="#">
                                 <div class="book-img-wrap">
                                     <div class="bookimg">
-                                        <img src="assetc/images/book/mukush.png" alt="">
+                                        <img src="assets/images/book/mukush.png" alt="">
                                     </div>
                                     <div class="discount-badge">
-                                        <img src="assetc/images/book/discount.png" alt="">
+                                        <img src="assets/images/book/discount.png" alt="">
                                         <b>25</b>
                                     </div>
                                     <div class="insideDisc">
-                                        <img src="assetc/images/book/insideDisc.png" alt="">
+                                        <img src="assets/images/book/insideDisc.png" alt="">
                                     </div>
                                     <div class="add-toCard-btn">
                                        <a href="#">
@@ -663,14 +663,14 @@
                             <a href="#">
                                 <div class="book-img-wrap">
                                     <div class="bookimg">
-                                        <img src="assetc/images/book/mukush.png" alt="">
+                                        <img src="assets/images/book/mukush.png" alt="">
                                     </div>
                                     <div class="discount-badge">
-                                        <img src="assetc/images/book/discount.png" alt="">
+                                        <img src="assets/images/book/discount.png" alt="">
                                         <b>25</b>
                                     </div>
                                     <div class="insideDisc">
-                                        <img src="assetc/images/book/insideDisc.png" alt="">
+                                        <img src="assets/images/book/insideDisc.png" alt="">
                                     </div>
                                     <div class="add-toCard-btn">
                                        <a href="#">
@@ -708,14 +708,14 @@
                             <a href="#">
                                 <div class="book-img-wrap">
                                     <div class="bookimg">
-                                        <img src="assetc/images/book/mukush.png" alt="">
+                                        <img src="assets/images/book/mukush.png" alt="">
                                     </div>
                                     <div class="discount-badge">
-                                        <img src="assetc/images/book/discount.png" alt="">
+                                        <img src="assets/images/book/discount.png" alt="">
                                         <b>25</b>
                                     </div>
                                     <div class="insideDisc">
-                                        <img src="assetc/images/book/insideDisc.png" alt="">
+                                        <img src="assets/images/book/insideDisc.png" alt="">
                                     </div>
                                     <div class="add-toCard-btn">
                                        <a href="#">
@@ -753,14 +753,14 @@
                             <a href="#">
                                 <div class="book-img-wrap">
                                     <div class="bookimg">
-                                        <img src="assetc/images/book/mukush.png" alt="">
+                                        <img src="assets/images/book/mukush.png" alt="">
                                     </div>
                                     <div class="discount-badge">
-                                        <img src="assetc/images/book/discount.png" alt="">
+                                        <img src="assets/images/book/discount.png" alt="">
                                         <b>25</b>
                                     </div>
                                     <div class="insideDisc">
-                                        <img src="assetc/images/book/insideDisc.png" alt="">
+                                        <img src="assets/images/book/insideDisc.png" alt="">
                                     </div>
                                     <div class="add-toCard-btn">
                                        <a href="#">
@@ -907,14 +907,14 @@
                         <a href="#">
                             <div class="book-img-wrap">
                                 <div class="bookimg">
-                                    <img src="assetc/images/book/mukush.png" alt="">
+                                    <img src="assets/images/book/mukush.png" alt="">
                                 </div>
                                 <div class="discount-badge">
-                                    <img src="assetc/images/book/discount.png" alt="">
+                                    <img src="assets/images/book/discount.png" alt="">
                                     <b>25</b>
                                 </div>
                                 <div class="insideDisc">
-                                    <img src="assetc/images/book/insideDisc.png" alt="">
+                                    <img src="assets/images/book/insideDisc.png" alt="">
                                 </div>
                                 <div class="add-toCard-btn">
                                    <a href="#">
@@ -953,14 +953,14 @@
                         <a href="#">
                             <div class="book-img-wrap">
                                 <div class="bookimg">
-                                    <img src="assetc/images/book/mukush.png" alt="">
+                                    <img src="assets/images/book/mukush.png" alt="">
                                 </div>
                                 <div class="discount-badge">
-                                    <img src="assetc/images/book/discount.png" alt="">
+                                    <img src="assets/images/book/discount.png" alt="">
                                     <b>25</b>
                                 </div>
                                 <div class="insideDisc">
-                                    <img src="assetc/images/book/insideDisc.png" alt="">
+                                    <img src="assets/images/book/insideDisc.png" alt="">
                                 </div>
                                 <div class="add-toCard-btn">
                                    <a href="#">
@@ -999,14 +999,14 @@
                         <a href="#">
                             <div class="book-img-wrap">
                                 <div class="bookimg">
-                                    <img src="assetc/images/book/mukush.png" alt="">
+                                    <img src="assets/images/book/mukush.png" alt="">
                                 </div>
                                 <div class="discount-badge">
-                                    <img src="assetc/images/book/discount.png" alt="">
+                                    <img src="assets/images/book/discount.png" alt="">
                                     <b>25</b>
                                 </div>
                                 <div class="insideDisc">
-                                    <img src="assetc/images/book/insideDisc.png" alt="">
+                                    <img src="assets/images/book/insideDisc.png" alt="">
                                 </div>
                                 <div class="add-toCard-btn">
                                    <a href="#">
@@ -1045,14 +1045,14 @@
                         <a href="#">
                             <div class="book-img-wrap">
                                 <div class="bookimg">
-                                    <img src="assetc/images/book/mukush.png" alt="">
+                                    <img src="assets/images/book/mukush.png" alt="">
                                 </div>
                                 <div class="discount-badge">
-                                    <img src="assetc/images/book/discount.png" alt="">
+                                    <img src="assets/images/book/discount.png" alt="">
                                     <b>25</b>
                                 </div>
                                 <div class="insideDisc">
-                                    <img src="assetc/images/book/insideDisc.png" alt="">
+                                    <img src="assets/images/book/insideDisc.png" alt="">
                                 </div>
                                 <div class="add-toCard-btn">
                                    <a href="#">
@@ -1090,14 +1090,14 @@
                         <a href="#">
                             <div class="book-img-wrap">
                                 <div class="bookimg">
-                                    <img src="assetc/images/book/mukush.png" alt="">
+                                    <img src="assets/images/book/mukush.png" alt="">
                                 </div>
                                 <div class="discount-badge">
-                                    <img src="assetc/images/book/discount.png" alt="">
+                                    <img src="assets/images/book/discount.png" alt="">
                                     <b>25</b>
                                 </div>
                                 <div class="insideDisc">
-                                    <img src="assetc/images/book/insideDisc.png" alt="">
+                                    <img src="assets/images/book/insideDisc.png" alt="">
                                 </div>
                                 <div class="add-toCard-btn">
                                    <a href="#">
@@ -1135,14 +1135,14 @@
                         <a href="#">
                             <div class="book-img-wrap">
                                 <div class="bookimg">
-                                    <img src="assetc/images/book/mukush.png" alt="">
+                                    <img src="assets/images/book/mukush.png" alt="">
                                 </div>
                                 <div class="discount-badge">
-                                    <img src="assetc/images/book/discount.png" alt="">
+                                    <img src="assets/images/book/discount.png" alt="">
                                     <b>25</b>
                                 </div>
                                 <div class="insideDisc">
-                                    <img src="assetc/images/book/insideDisc.png" alt="">
+                                    <img src="assets/images/book/insideDisc.png" alt="">
                                 </div>
                                 <div class="add-toCard-btn">
                                    <a href="#">
@@ -1180,14 +1180,14 @@
                         <a href="#">
                             <div class="book-img-wrap">
                                 <div class="bookimg">
-                                    <img src="assetc/images/book/mukush.png" alt="">
+                                    <img src="assets/images/book/mukush.png" alt="">
                                 </div>
                                 <div class="discount-badge">
-                                    <img src="assetc/images/book/discount.png" alt="">
+                                    <img src="assets/images/book/discount.png" alt="">
                                     <b>25</b>
                                 </div>
                                 <div class="insideDisc">
-                                    <img src="assetc/images/book/insideDisc.png" alt="">
+                                    <img src="assets/images/book/insideDisc.png" alt="">
                                 </div>
                                 <div class="add-toCard-btn">
                                    <a href="#">
@@ -1225,14 +1225,14 @@
                         <a href="#">
                             <div class="book-img-wrap">
                                 <div class="bookimg">
-                                    <img src="assetc/images/book/mukush.png" alt="">
+                                    <img src="assets/images/book/mukush.png" alt="">
                                 </div>
                                 <div class="discount-badge">
-                                    <img src="assetc/images/book/discount.png" alt="">
+                                    <img src="assets/images/book/discount.png" alt="">
                                     <b>25</b>
                                 </div>
                                 <div class="insideDisc">
-                                    <img src="assetc/images/book/insideDisc.png" alt="">
+                                    <img src="assets/images/book/insideDisc.png" alt="">
                                 </div>
                                 <div class="add-toCard-btn">
                                    <a href="#">
@@ -1295,14 +1295,14 @@
                         <a href="#">
                             <div class="book-img-wrap">
                                 <div class="bookimg">
-                                    <img src="assetc/images/book/mukush.png" alt="">
+                                    <img src="assets/images/book/mukush.png" alt="">
                                 </div>
                                 <div class="discount-badge">
-                                    <img src="assetc/images/book/discount.png" alt="">
+                                    <img src="assets/images/book/discount.png" alt="">
                                     <b>25</b>
                                 </div>
                                 <div class="insideDisc">
-                                    <img src="assetc/images/book/insideDisc.png" alt="">
+                                    <img src="assets/images/book/insideDisc.png" alt="">
                                 </div>
                                 <div class="add-toCard-btn">
                                    <a href="#">
@@ -1341,14 +1341,14 @@
                         <a href="#">
                             <div class="book-img-wrap">
                                 <div class="bookimg">
-                                    <img src="assetc/images/book/mukush.png" alt="">
+                                    <img src="assets/images/book/mukush.png" alt="">
                                 </div>
                                 <div class="discount-badge">
-                                    <img src="assetc/images/book/discount.png" alt="">
+                                    <img src="assets/images/book/discount.png" alt="">
                                     <b>25</b>
                                 </div>
                                 <div class="insideDisc">
-                                    <img src="assetc/images/book/insideDisc.png" alt="">
+                                    <img src="assets/images/book/insideDisc.png" alt="">
                                 </div>
                                 <div class="add-toCard-btn">
                                    <a href="#">
@@ -1387,14 +1387,14 @@
                         <a href="#">
                             <div class="book-img-wrap">
                                 <div class="bookimg">
-                                    <img src="assetc/images/book/mukush.png" alt="">
+                                    <img src="assets/images/book/mukush.png" alt="">
                                 </div>
                                 <div class="discount-badge">
-                                    <img src="assetc/images/book/discount.png" alt="">
+                                    <img src="assets/images/book/discount.png" alt="">
                                     <b>25</b>
                                 </div>
                                 <div class="insideDisc">
-                                    <img src="assetc/images/book/insideDisc.png" alt="">
+                                    <img src="assets/images/book/insideDisc.png" alt="">
                                 </div>
                                 <div class="add-toCard-btn">
                                    <a href="#">
@@ -1433,14 +1433,14 @@
                         <a href="#">
                             <div class="book-img-wrap">
                                 <div class="bookimg">
-                                    <img src="assetc/images/book/mukush.png" alt="">
+                                    <img src="assets/images/book/mukush.png" alt="">
                                 </div>
                                 <div class="discount-badge">
-                                    <img src="assetc/images/book/discount.png" alt="">
+                                    <img src="assets/images/book/discount.png" alt="">
                                     <b>25</b>
                                 </div>
                                 <div class="insideDisc">
-                                    <img src="assetc/images/book/insideDisc.png" alt="">
+                                    <img src="assets/images/book/insideDisc.png" alt="">
                                 </div>
                                 <div class="add-toCard-btn">
                                    <a href="#">
@@ -1478,14 +1478,14 @@
                         <a href="#">
                             <div class="book-img-wrap">
                                 <div class="bookimg">
-                                    <img src="assetc/images/book/mukush.png" alt="">
+                                    <img src="assets/images/book/mukush.png" alt="">
                                 </div>
                                 <div class="discount-badge">
-                                    <img src="assetc/images/book/discount.png" alt="">
+                                    <img src="assets/images/book/discount.png" alt="">
                                     <b>25</b>
                                 </div>
                                 <div class="insideDisc">
-                                    <img src="assetc/images/book/insideDisc.png" alt="">
+                                    <img src="assets/images/book/insideDisc.png" alt="">
                                 </div>
                                 <div class="add-toCard-btn">
                                    <a href="#">
@@ -1523,14 +1523,14 @@
                         <a href="#">
                             <div class="book-img-wrap">
                                 <div class="bookimg">
-                                    <img src="assetc/images/book/mukush.png" alt="">
+                                    <img src="assets/images/book/mukush.png" alt="">
                                 </div>
                                 <div class="discount-badge">
-                                    <img src="assetc/images/book/discount.png" alt="">
+                                    <img src="assets/images/book/discount.png" alt="">
                                     <b>25</b>
                                 </div>
                                 <div class="insideDisc">
-                                    <img src="assetc/images/book/insideDisc.png" alt="">
+                                    <img src="assets/images/book/insideDisc.png" alt="">
                                 </div>
                                 <div class="add-toCard-btn">
                                    <a href="#">
@@ -1568,14 +1568,14 @@
                         <a href="#">
                             <div class="book-img-wrap">
                                 <div class="bookimg">
-                                    <img src="assetc/images/book/mukush.png" alt="">
+                                    <img src="assets/images/book/mukush.png" alt="">
                                 </div>
                                 <div class="discount-badge">
-                                    <img src="assetc/images/book/discount.png" alt="">
+                                    <img src="assets/images/book/discount.png" alt="">
                                     <b>25</b>
                                 </div>
                                 <div class="insideDisc">
-                                    <img src="assetc/images/book/insideDisc.png" alt="">
+                                    <img src="assets/images/book/insideDisc.png" alt="">
                                 </div>
                                 <div class="add-toCard-btn">
                                    <a href="#">
@@ -1613,14 +1613,14 @@
                         <a href="#">
                             <div class="book-img-wrap">
                                 <div class="bookimg">
-                                    <img src="assetc/images/book/mukush.png" alt="">
+                                    <img src="assets/images/book/mukush.png" alt="">
                                 </div>
                                 <div class="discount-badge">
-                                    <img src="assetc/images/book/discount.png" alt="">
+                                    <img src="assets/images/book/discount.png" alt="">
                                     <b>25</b>
                                 </div>
                                 <div class="insideDisc">
-                                    <img src="assetc/images/book/insideDisc.png" alt="">
+                                    <img src="assets/images/book/insideDisc.png" alt="">
                                 </div>
                                 <div class="add-toCard-btn">
                                    <a href="#">
@@ -1731,14 +1731,14 @@
                         <a href="#">
                             <div class="book-img-wrap">
                                 <div class="bookimg">
-                                    <img src="assetc/images/book/mukush.png" alt="">
+                                    <img src="assets/images/book/mukush.png" alt="">
                                 </div>
                                 <div class="discount-badge">
-                                    <img src="assetc/images/book/discount.png" alt="">
+                                    <img src="assets/images/book/discount.png" alt="">
                                     <b>25</b>
                                 </div>
                                 <div class="insideDisc">
-                                    <img src="assetc/images/book/insideDisc.png" alt="">
+                                    <img src="assets/images/book/insideDisc.png" alt="">
                                 </div>
                                 <div class="add-toCard-btn">
                                    <a href="#">
@@ -1777,14 +1777,14 @@
                         <a href="#">
                             <div class="book-img-wrap">
                                 <div class="bookimg">
-                                    <img src="assetc/images/book/mukush.png" alt="">
+                                    <img src="assets/images/book/mukush.png" alt="">
                                 </div>
                                 <div class="discount-badge">
-                                    <img src="assetc/images/book/discount.png" alt="">
+                                    <img src="assets/images/book/discount.png" alt="">
                                     <b>25</b>
                                 </div>
                                 <div class="insideDisc">
-                                    <img src="assetc/images/book/insideDisc.png" alt="">
+                                    <img src="assets/images/book/insideDisc.png" alt="">
                                 </div>
                                 <div class="add-toCard-btn">
                                    <a href="#">
@@ -1823,14 +1823,14 @@
                         <a href="#">
                             <div class="book-img-wrap">
                                 <div class="bookimg">
-                                    <img src="assetc/images/book/mukush.png" alt="">
+                                    <img src="assets/images/book/mukush.png" alt="">
                                 </div>
                                 <div class="discount-badge">
-                                    <img src="assetc/images/book/discount.png" alt="">
+                                    <img src="assets/images/book/discount.png" alt="">
                                     <b>25</b>
                                 </div>
                                 <div class="insideDisc">
-                                    <img src="assetc/images/book/insideDisc.png" alt="">
+                                    <img src="assets/images/book/insideDisc.png" alt="">
                                 </div>
                                 <div class="add-toCard-btn">
                                    <a href="#">
@@ -1869,14 +1869,14 @@
                         <a href="#">
                             <div class="book-img-wrap">
                                 <div class="bookimg">
-                                    <img src="assetc/images/book/mukush.png" alt="">
+                                    <img src="assets/images/book/mukush.png" alt="">
                                 </div>
                                 <div class="discount-badge">
-                                    <img src="assetc/images/book/discount.png" alt="">
+                                    <img src="assets/images/book/discount.png" alt="">
                                     <b>25</b>
                                 </div>
                                 <div class="insideDisc">
-                                    <img src="assetc/images/book/insideDisc.png" alt="">
+                                    <img src="assets/images/book/insideDisc.png" alt="">
                                 </div>
                                 <div class="add-toCard-btn">
                                    <a href="#">
@@ -1914,14 +1914,14 @@
                         <a href="#">
                             <div class="book-img-wrap">
                                 <div class="bookimg">
-                                    <img src="assetc/images/book/mukush.png" alt="">
+                                    <img src="assets/images/book/mukush.png" alt="">
                                 </div>
                                 <div class="discount-badge">
-                                    <img src="assetc/images/book/discount.png" alt="">
+                                    <img src="assets/images/book/discount.png" alt="">
                                     <b>25</b>
                                 </div>
                                 <div class="insideDisc">
-                                    <img src="assetc/images/book/insideDisc.png" alt="">
+                                    <img src="assets/images/book/insideDisc.png" alt="">
                                 </div>
                                 <div class="add-toCard-btn">
                                    <a href="#">
@@ -1959,14 +1959,14 @@
                         <a href="#">
                             <div class="book-img-wrap">
                                 <div class="bookimg">
-                                    <img src="assetc/images/book/mukush.png" alt="">
+                                    <img src="assets/images/book/mukush.png" alt="">
                                 </div>
                                 <div class="discount-badge">
-                                    <img src="assetc/images/book/discount.png" alt="">
+                                    <img src="assets/images/book/discount.png" alt="">
                                     <b>25</b>
                                 </div>
                                 <div class="insideDisc">
-                                    <img src="assetc/images/book/insideDisc.png" alt="">
+                                    <img src="assets/images/book/insideDisc.png" alt="">
                                 </div>
                                 <div class="add-toCard-btn">
                                    <a href="#">
@@ -2004,14 +2004,14 @@
                         <a href="#">
                             <div class="book-img-wrap">
                                 <div class="bookimg">
-                                    <img src="assetc/images/book/mukush.png" alt="">
+                                    <img src="assets/images/book/mukush.png" alt="">
                                 </div>
                                 <div class="discount-badge">
-                                    <img src="assetc/images/book/discount.png" alt="">
+                                    <img src="assets/images/book/discount.png" alt="">
                                     <b>25</b>
                                 </div>
                                 <div class="insideDisc">
-                                    <img src="assetc/images/book/insideDisc.png" alt="">
+                                    <img src="assets/images/book/insideDisc.png" alt="">
                                 </div>
                                 <div class="add-toCard-btn">
                                    <a href="#">
@@ -2049,14 +2049,14 @@
                         <a href="#">
                             <div class="book-img-wrap">
                                 <div class="bookimg">
-                                    <img src="assetc/images/book/mukush.png" alt="">
+                                    <img src="assets/images/book/mukush.png" alt="">
                                 </div>
                                 <div class="discount-badge">
-                                    <img src="assetc/images/book/discount.png" alt="">
+                                    <img src="assets/images/book/discount.png" alt="">
                                     <b>25</b>
                                 </div>
                                 <div class="insideDisc">
-                                    <img src="assetc/images/book/insideDisc.png" alt="">
+                                    <img src="assets/images/book/insideDisc.png" alt="">
                                 </div>
                                 <div class="add-toCard-btn">
                                    <a href="#">
@@ -2406,14 +2406,14 @@
                         <a href="#">
                             <div class="book-img-wrap">
                                 <div class="bookimg">
-                                    <img src="assetc/images/book/mukush.png" alt="">
+                                    <img src="assets/images/book/mukush.png" alt="">
                                 </div>
                                 <div class="discount-badge">
-                                    <img src="assetc/images/book/discount.png" alt="">
+                                    <img src="assets/images/book/discount.png" alt="">
                                     <b>25</b>
                                 </div>
                                 <div class="insideDisc">
-                                    <img src="assetc/images/book/insideDisc.png" alt="">
+                                    <img src="assets/images/book/insideDisc.png" alt="">
                                 </div>
                                 <div class="add-toCard-btn">
                                    <a href="#">
@@ -2452,14 +2452,14 @@
                         <a href="#">
                             <div class="book-img-wrap">
                                 <div class="bookimg">
-                                    <img src="assetc/images/book/mukush.png" alt="">
+                                    <img src="assets/images/book/mukush.png" alt="">
                                 </div>
                                 <div class="discount-badge">
-                                    <img src="assetc/images/book/discount.png" alt="">
+                                    <img src="assets/images/book/discount.png" alt="">
                                     <b>25</b>
                                 </div>
                                 <div class="insideDisc">
-                                    <img src="assetc/images/book/insideDisc.png" alt="">
+                                    <img src="assets/images/book/insideDisc.png" alt="">
                                 </div>
                                 <div class="add-toCard-btn">
                                    <a href="#">
@@ -2498,14 +2498,14 @@
                         <a href="#">
                             <div class="book-img-wrap">
                                 <div class="bookimg">
-                                    <img src="assetc/images/book/mukush.png" alt="">
+                                    <img src="assets/images/book/mukush.png" alt="">
                                 </div>
                                 <div class="discount-badge">
-                                    <img src="assetc/images/book/discount.png" alt="">
+                                    <img src="assets/images/book/discount.png" alt="">
                                     <b>25</b>
                                 </div>
                                 <div class="insideDisc">
-                                    <img src="assetc/images/book/insideDisc.png" alt="">
+                                    <img src="assets/images/book/insideDisc.png" alt="">
                                 </div>
                                 <div class="add-toCard-btn">
                                    <a href="#">
@@ -2544,14 +2544,14 @@
                         <a href="#">
                             <div class="book-img-wrap">
                                 <div class="bookimg">
-                                    <img src="assetc/images/book/mukush.png" alt="">
+                                    <img src="assets/images/book/mukush.png" alt="">
                                 </div>
                                 <div class="discount-badge">
-                                    <img src="assetc/images/book/discount.png" alt="">
+                                    <img src="assets/images/book/discount.png" alt="">
                                     <b>25</b>
                                 </div>
                                 <div class="insideDisc">
-                                    <img src="assetc/images/book/insideDisc.png" alt="">
+                                    <img src="assets/images/book/insideDisc.png" alt="">
                                 </div>
                                 <div class="add-toCard-btn">
                                    <a href="#">
@@ -2589,14 +2589,14 @@
                         <a href="#">
                             <div class="book-img-wrap">
                                 <div class="bookimg">
-                                    <img src="assetc/images/book/mukush.png" alt="">
+                                    <img src="assets/images/book/mukush.png" alt="">
                                 </div>
                                 <div class="discount-badge">
-                                    <img src="assetc/images/book/discount.png" alt="">
+                                    <img src="assets/images/book/discount.png" alt="">
                                     <b>25</b>
                                 </div>
                                 <div class="insideDisc">
-                                    <img src="assetc/images/book/insideDisc.png" alt="">
+                                    <img src="assets/images/book/insideDisc.png" alt="">
                                 </div>
                                 <div class="add-toCard-btn">
                                    <a href="#">
@@ -2634,14 +2634,14 @@
                         <a href="#">
                             <div class="book-img-wrap">
                                 <div class="bookimg">
-                                    <img src="assetc/images/book/mukush.png" alt="">
+                                    <img src="assets/images/book/mukush.png" alt="">
                                 </div>
                                 <div class="discount-badge">
-                                    <img src="assetc/images/book/discount.png" alt="">
+                                    <img src="assets/images/book/discount.png" alt="">
                                     <b>25</b>
                                 </div>
                                 <div class="insideDisc">
-                                    <img src="assetc/images/book/insideDisc.png" alt="">
+                                    <img src="assets/images/book/insideDisc.png" alt="">
                                 </div>
                                 <div class="add-toCard-btn">
                                    <a href="#">
@@ -2679,14 +2679,14 @@
                         <a href="#">
                             <div class="book-img-wrap">
                                 <div class="bookimg">
-                                    <img src="assetc/images/book/mukush.png" alt="">
+                                    <img src="assets/images/book/mukush.png" alt="">
                                 </div>
                                 <div class="discount-badge">
-                                    <img src="assetc/images/book/discount.png" alt="">
+                                    <img src="assets/images/book/discount.png" alt="">
                                     <b>25</b>
                                 </div>
                                 <div class="insideDisc">
-                                    <img src="assetc/images/book/insideDisc.png" alt="">
+                                    <img src="assets/images/book/insideDisc.png" alt="">
                                 </div>
                                 <div class="add-toCard-btn">
                                    <a href="#">
@@ -2724,14 +2724,14 @@
                         <a href="#">
                             <div class="book-img-wrap">
                                 <div class="bookimg">
-                                    <img src="assetc/images/book/mukush.png" alt="">
+                                    <img src="assets/images/book/mukush.png" alt="">
                                 </div>
                                 <div class="discount-badge">
-                                    <img src="assetc/images/book/discount.png" alt="">
+                                    <img src="assets/images/book/discount.png" alt="">
                                     <b>25</b>
                                 </div>
                                 <div class="insideDisc">
-                                    <img src="assetc/images/book/insideDisc.png" alt="">
+                                    <img src="assets/images/book/insideDisc.png" alt="">
                                 </div>
                                 <div class="add-toCard-btn">
                                    <a href="#">
@@ -2774,12 +2774,12 @@
         <div class="row">
             <div class="col-md-6">
                 <a href="#">
-                    <img src="assetc/images/ad1.png" alt="">
+                    <img src="assets/images/ad1.png" alt="">
                 </a>
             </div>
             <div class="col-md-6">
                 <a href="#">
-                    <img src="assetc/images/ad2.jpg" alt="">
+                    <img src="assets/images/ad2.jpg" alt="">
                 </a>
             </div>
         </div>
@@ -2813,14 +2813,14 @@
                         <a href="#">
                             <div class="book-img-wrap">
                                 <div class="bookimg">
-                                    <img src="assetc/images/book/mukush.png" alt="">
+                                    <img src="assets/images/book/mukush.png" alt="">
                                 </div>
                                 <div class="discount-badge">
-                                    <img src="assetc/images/book/discount.png" alt="">
+                                    <img src="assets/images/book/discount.png" alt="">
                                     <b>25</b>
                                 </div>
                                 <div class="insideDisc">
-                                    <img src="assetc/images/book/insideDisc.png" alt="">
+                                    <img src="assets/images/book/insideDisc.png" alt="">
                                 </div>
                                 <div class="add-toCard-btn">
                                    <a href="#">
@@ -2859,14 +2859,14 @@
                         <a href="#">
                             <div class="book-img-wrap">
                                 <div class="bookimg">
-                                    <img src="assetc/images/book/mukush.png" alt="">
+                                    <img src="assets/images/book/mukush.png" alt="">
                                 </div>
                                 <div class="discount-badge">
-                                    <img src="assetc/images/book/discount.png" alt="">
+                                    <img src="assets/images/book/discount.png" alt="">
                                     <b>25</b>
                                 </div>
                                 <div class="insideDisc">
-                                    <img src="assetc/images/book/insideDisc.png" alt="">
+                                    <img src="assets/images/book/insideDisc.png" alt="">
                                 </div>
                                 <div class="add-toCard-btn">
                                    <a href="#">
@@ -2905,14 +2905,14 @@
                         <a href="#">
                             <div class="book-img-wrap">
                                 <div class="bookimg">
-                                    <img src="assetc/images/book/mukush.png" alt="">
+                                    <img src="assets/images/book/mukush.png" alt="">
                                 </div>
                                 <div class="discount-badge">
-                                    <img src="assetc/images/book/discount.png" alt="">
+                                    <img src="assets/images/book/discount.png" alt="">
                                     <b>25</b>
                                 </div>
                                 <div class="insideDisc">
-                                    <img src="assetc/images/book/insideDisc.png" alt="">
+                                    <img src="assets/images/book/insideDisc.png" alt="">
                                 </div>
                                 <div class="add-toCard-btn">
                                    <a href="#">
@@ -2951,14 +2951,14 @@
                         <a href="#">
                             <div class="book-img-wrap">
                                 <div class="bookimg">
-                                    <img src="assetc/images/book/mukush.png" alt="">
+                                    <img src="assets/images/book/mukush.png" alt="">
                                 </div>
                                 <div class="discount-badge">
-                                    <img src="assetc/images/book/discount.png" alt="">
+                                    <img src="assets/images/book/discount.png" alt="">
                                     <b>25</b>
                                 </div>
                                 <div class="insideDisc">
-                                    <img src="assetc/images/book/insideDisc.png" alt="">
+                                    <img src="assets/images/book/insideDisc.png" alt="">
                                 </div>
                                 <div class="add-toCard-btn">
                                    <a href="#">
@@ -2996,14 +2996,14 @@
                         <a href="#">
                             <div class="book-img-wrap">
                                 <div class="bookimg">
-                                    <img src="assetc/images/book/mukush.png" alt="">
+                                    <img src="assets/images/book/mukush.png" alt="">
                                 </div>
                                 <div class="discount-badge">
-                                    <img src="assetc/images/book/discount.png" alt="">
+                                    <img src="assets/images/book/discount.png" alt="">
                                     <b>25</b>
                                 </div>
                                 <div class="insideDisc">
-                                    <img src="assetc/images/book/insideDisc.png" alt="">
+                                    <img src="assets/images/book/insideDisc.png" alt="">
                                 </div>
                                 <div class="add-toCard-btn">
                                    <a href="#">
@@ -3041,14 +3041,14 @@
                         <a href="#">
                             <div class="book-img-wrap">
                                 <div class="bookimg">
-                                    <img src="assetc/images/book/mukush.png" alt="">
+                                    <img src="assets/images/book/mukush.png" alt="">
                                 </div>
                                 <div class="discount-badge">
-                                    <img src="assetc/images/book/discount.png" alt="">
+                                    <img src="assets/images/book/discount.png" alt="">
                                     <b>25</b>
                                 </div>
                                 <div class="insideDisc">
-                                    <img src="assetc/images/book/insideDisc.png" alt="">
+                                    <img src="assets/images/book/insideDisc.png" alt="">
                                 </div>
                                 <div class="add-toCard-btn">
                                    <a href="#">
@@ -3086,14 +3086,14 @@
                         <a href="#">
                             <div class="book-img-wrap">
                                 <div class="bookimg">
-                                    <img src="assetc/images/book/mukush.png" alt="">
+                                    <img src="assets/images/book/mukush.png" alt="">
                                 </div>
                                 <div class="discount-badge">
-                                    <img src="assetc/images/book/discount.png" alt="">
+                                    <img src="assets/images/book/discount.png" alt="">
                                     <b>25</b>
                                 </div>
                                 <div class="insideDisc">
-                                    <img src="assetc/images/book/insideDisc.png" alt="">
+                                    <img src="assets/images/book/insideDisc.png" alt="">
                                 </div>
                                 <div class="add-toCard-btn">
                                    <a href="#">
@@ -3131,14 +3131,14 @@
                         <a href="#">
                             <div class="book-img-wrap">
                                 <div class="bookimg">
-                                    <img src="assetc/images/book/mukush.png" alt="">
+                                    <img src="assets/images/book/mukush.png" alt="">
                                 </div>
                                 <div class="discount-badge">
-                                    <img src="assetc/images/book/discount.png" alt="">
+                                    <img src="assets/images/book/discount.png" alt="">
                                     <b>25</b>
                                 </div>
                                 <div class="insideDisc">
-                                    <img src="assetc/images/book/insideDisc.png" alt="">
+                                    <img src="assets/images/book/insideDisc.png" alt="">
                                 </div>
                                 <div class="add-toCard-btn">
                                    <a href="#">
@@ -3183,7 +3183,7 @@
         <div class="row">
             <div class="col-md-12">
                 <a href="#">
-                    <img src="assetc/images/offer.gif" alt="">
+                    <img src="assets/images/offer.gif" alt="">
                 </a>
             </div>
         </div>
@@ -3215,14 +3215,14 @@
                         <a href="#">
                             <div class="book-img-wrap">
                                 <div class="bookimg">
-                                    <img src="assetc/images/book/mukush.png" alt="">
+                                    <img src="assets/images/book/mukush.png" alt="">
                                 </div>
                                 <div class="discount-badge">
-                                    <img src="assetc/images/book/discount.png" alt="">
+                                    <img src="assets/images/book/discount.png" alt="">
                                     <b>25</b>
                                 </div>
                                 <div class="insideDisc">
-                                    <img src="assetc/images/book/insideDisc.png" alt="">
+                                    <img src="assets/images/book/insideDisc.png" alt="">
                                 </div>
                                 <div class="add-toCard-btn">
                                    <a href="#">
@@ -3261,14 +3261,14 @@
                         <a href="#">
                             <div class="book-img-wrap">
                                 <div class="bookimg">
-                                    <img src="assetc/images/book/mukush.png" alt="">
+                                    <img src="assets/images/book/mukush.png" alt="">
                                 </div>
                                 <div class="discount-badge">
-                                    <img src="assetc/images/book/discount.png" alt="">
+                                    <img src="assets/images/book/discount.png" alt="">
                                     <b>25</b>
                                 </div>
                                 <div class="insideDisc">
-                                    <img src="assetc/images/book/insideDisc.png" alt="">
+                                    <img src="assets/images/book/insideDisc.png" alt="">
                                 </div>
                                 <div class="add-toCard-btn">
                                    <a href="#">
@@ -3307,14 +3307,14 @@
                         <a href="#">
                             <div class="book-img-wrap">
                                 <div class="bookimg">
-                                    <img src="assetc/images/book/mukush.png" alt="">
+                                    <img src="assets/images/book/mukush.png" alt="">
                                 </div>
                                 <div class="discount-badge">
-                                    <img src="assetc/images/book/discount.png" alt="">
+                                    <img src="assets/images/book/discount.png" alt="">
                                     <b>25</b>
                                 </div>
                                 <div class="insideDisc">
-                                    <img src="assetc/images/book/insideDisc.png" alt="">
+                                    <img src="assets/images/book/insideDisc.png" alt="">
                                 </div>
                                 <div class="add-toCard-btn">
                                    <a href="#">
@@ -3353,14 +3353,14 @@
                         <a href="#">
                             <div class="book-img-wrap">
                                 <div class="bookimg">
-                                    <img src="assetc/images/book/mukush.png" alt="">
+                                    <img src="assets/images/book/mukush.png" alt="">
                                 </div>
                                 <div class="discount-badge">
-                                    <img src="assetc/images/book/discount.png" alt="">
+                                    <img src="assets/images/book/discount.png" alt="">
                                     <b>25</b>
                                 </div>
                                 <div class="insideDisc">
-                                    <img src="assetc/images/book/insideDisc.png" alt="">
+                                    <img src="assets/images/book/insideDisc.png" alt="">
                                 </div>
                                 <div class="add-toCard-btn">
                                    <a href="#">
@@ -3398,14 +3398,14 @@
                         <a href="#">
                             <div class="book-img-wrap">
                                 <div class="bookimg">
-                                    <img src="assetc/images/book/mukush.png" alt="">
+                                    <img src="assets/images/book/mukush.png" alt="">
                                 </div>
                                 <div class="discount-badge">
-                                    <img src="assetc/images/book/discount.png" alt="">
+                                    <img src="assets/images/book/discount.png" alt="">
                                     <b>25</b>
                                 </div>
                                 <div class="insideDisc">
-                                    <img src="assetc/images/book/insideDisc.png" alt="">
+                                    <img src="assets/images/book/insideDisc.png" alt="">
                                 </div>
                                 <div class="add-toCard-btn">
                                    <a href="#">
@@ -3443,14 +3443,14 @@
                         <a href="#">
                             <div class="book-img-wrap">
                                 <div class="bookimg">
-                                    <img src="assetc/images/book/mukush.png" alt="">
+                                    <img src="assets/images/book/mukush.png" alt="">
                                 </div>
                                 <div class="discount-badge">
-                                    <img src="assetc/images/book/discount.png" alt="">
+                                    <img src="assets/images/book/discount.png" alt="">
                                     <b>25</b>
                                 </div>
                                 <div class="insideDisc">
-                                    <img src="assetc/images/book/insideDisc.png" alt="">
+                                    <img src="assets/images/book/insideDisc.png" alt="">
                                 </div>
                                 <div class="add-toCard-btn">
                                    <a href="#">
@@ -3488,14 +3488,14 @@
                         <a href="#">
                             <div class="book-img-wrap">
                                 <div class="bookimg">
-                                    <img src="assetc/images/book/mukush.png" alt="">
+                                    <img src="assets/images/book/mukush.png" alt="">
                                 </div>
                                 <div class="discount-badge">
-                                    <img src="assetc/images/book/discount.png" alt="">
+                                    <img src="assets/images/book/discount.png" alt="">
                                     <b>25</b>
                                 </div>
                                 <div class="insideDisc">
-                                    <img src="assetc/images/book/insideDisc.png" alt="">
+                                    <img src="assets/images/book/insideDisc.png" alt="">
                                 </div>
                                 <div class="add-toCard-btn">
                                    <a href="#">
@@ -3533,14 +3533,14 @@
                         <a href="#">
                             <div class="book-img-wrap">
                                 <div class="bookimg">
-                                    <img src="assetc/images/book/mukush.png" alt="">
+                                    <img src="assets/images/book/mukush.png" alt="">
                                 </div>
                                 <div class="discount-badge">
-                                    <img src="assetc/images/book/discount.png" alt="">
+                                    <img src="assets/images/book/discount.png" alt="">
                                     <b>25</b>
                                 </div>
                                 <div class="insideDisc">
-                                    <img src="assetc/images/book/insideDisc.png" alt="">
+                                    <img src="assets/images/book/insideDisc.png" alt="">
                                 </div>
                                 <div class="add-toCard-btn">
                                    <a href="#">
@@ -3619,14 +3619,14 @@
                         <a href="#">
                             <div class="Mobailbook-img-wrap">
                                 <div class="bookimg">
-                                    <img src="assetc/images/book/mukush.png" alt="">
+                                    <img src="assets/images/book/mukush.png" alt="">
                                 </div>
                                 <div class="Mobaildiscount-badge">
-                                    <img src="assetc/images/book/discount.png" alt="">
+                                    <img src="assets/images/book/discount.png" alt="">
                                     <b>25</b>
                                 </div>
                                 <div class="MobailinsideDisc">
-                                    <img src="assetc/images/book/insideDisc.png" alt="">
+                                    <img src="assets/images/book/insideDisc.png" alt="">
                                 </div>
                                
                             </div>
@@ -3660,14 +3660,14 @@
                         <a href="#">
                             <div class="Mobailbook-img-wrap">
                                 <div class="bookimg">
-                                    <img src="assetc/images/book/mukush.png" alt="">
+                                    <img src="assets/images/book/mukush.png" alt="">
                                 </div>
                                 <div class="Mobaildiscount-badge">
-                                    <img src="assetc/images/book/discount.png" alt="">
+                                    <img src="assets/images/book/discount.png" alt="">
                                     <b>25</b>
                                 </div>
                                 <div class="MobailinsideDisc">
-                                    <img src="assetc/images/book/insideDisc.png" alt="">
+                                    <img src="assets/images/book/insideDisc.png" alt="">
                                 </div>
                                
                             </div>
@@ -3701,14 +3701,14 @@
                         <a href="#">
                             <div class="Mobailbook-img-wrap">
                                 <div class="bookimg">
-                                    <img src="assetc/images/book/mukush.png" alt="">
+                                    <img src="assets/images/book/mukush.png" alt="">
                                 </div>
                                 <div class="Mobaildiscount-badge">
-                                    <img src="assetc/images/book/discount.png" alt="">
+                                    <img src="assets/images/book/discount.png" alt="">
                                     <b>25</b>
                                 </div>
                                 <div class="MobailinsideDisc">
-                                    <img src="assetc/images/book/insideDisc.png" alt="">
+                                    <img src="assets/images/book/insideDisc.png" alt="">
                                 </div>
                                
                             </div>
@@ -3744,14 +3744,14 @@
                         <a href="#">
                             <div class="Mobailbook-img-wrap">
                                 <div class="bookimg">
-                                    <img src="assetc/images/book/mukush.png" alt="">
+                                    <img src="assets/images/book/mukush.png" alt="">
                                 </div>
                                 <div class="Mobaildiscount-badge">
-                                    <img src="assetc/images/book/discount.png" alt="">
+                                    <img src="assets/images/book/discount.png" alt="">
                                     <b>25</b>
                                 </div>
                                 <div class="MobailinsideDisc">
-                                    <img src="assetc/images/book/insideDisc.png" alt="">
+                                    <img src="assets/images/book/insideDisc.png" alt="">
                                 </div>
                                
                             </div>
@@ -3807,14 +3807,14 @@
                         <a href="#">
                             <div class="Mobailbook-img-wrap">
                                 <div class="bookimg">
-                                    <img src="assetc/images/book/mukush.png" alt="">
+                                    <img src="assets/images/book/mukush.png" alt="">
                                 </div>
                                 <div class="Mobaildiscount-badge">
-                                    <img src="assetc/images/book/discount.png" alt="">
+                                    <img src="assets/images/book/discount.png" alt="">
                                     <b>25</b>
                                 </div>
                                 <div class="MobailinsideDisc">
-                                    <img src="assetc/images/book/insideDisc.png" alt="">
+                                    <img src="assets/images/book/insideDisc.png" alt="">
                                 </div>
                                
                             </div>
@@ -3848,14 +3848,14 @@
                         <a href="#">
                             <div class="Mobailbook-img-wrap">
                                 <div class="bookimg">
-                                    <img src="assetc/images/book/mukush.png" alt="">
+                                    <img src="assets/images/book/mukush.png" alt="">
                                 </div>
                                 <div class="Mobaildiscount-badge">
-                                    <img src="assetc/images/book/discount.png" alt="">
+                                    <img src="assets/images/book/discount.png" alt="">
                                     <b>25</b>
                                 </div>
                                 <div class="MobailinsideDisc">
-                                    <img src="assetc/images/book/insideDisc.png" alt="">
+                                    <img src="assets/images/book/insideDisc.png" alt="">
                                 </div>
                                
                             </div>
@@ -3889,14 +3889,14 @@
                         <a href="#">
                             <div class="Mobailbook-img-wrap">
                                 <div class="bookimg">
-                                    <img src="assetc/images/book/mukush.png" alt="">
+                                    <img src="assets/images/book/mukush.png" alt="">
                                 </div>
                                 <div class="Mobaildiscount-badge">
-                                    <img src="assetc/images/book/discount.png" alt="">
+                                    <img src="assets/images/book/discount.png" alt="">
                                     <b>25</b>
                                 </div>
                                 <div class="MobailinsideDisc">
-                                    <img src="assetc/images/book/insideDisc.png" alt="">
+                                    <img src="assets/images/book/insideDisc.png" alt="">
                                 </div>
                                
                             </div>
@@ -3932,14 +3932,14 @@
                         <a href="#">
                             <div class="Mobailbook-img-wrap">
                                 <div class="bookimg">
-                                    <img src="assetc/images/book/mukush.png" alt="">
+                                    <img src="assets/images/book/mukush.png" alt="">
                                 </div>
                                 <div class="Mobaildiscount-badge">
-                                    <img src="assetc/images/book/discount.png" alt="">
+                                    <img src="assets/images/book/discount.png" alt="">
                                     <b>25</b>
                                 </div>
                                 <div class="MobailinsideDisc">
-                                    <img src="assetc/images/book/insideDisc.png" alt="">
+                                    <img src="assets/images/book/insideDisc.png" alt="">
                                 </div>
                                
                             </div>
@@ -4123,14 +4123,14 @@
                         <a href="#">
                             <div class="Mobailbook-img-wrap">
                                 <div class="bookimg">
-                                    <img src="assetc/images/book/mukush.png" alt="">
+                                    <img src="assets/images/book/mukush.png" alt="">
                                 </div>
                                 <div class="Mobaildiscount-badge">
-                                    <img src="assetc/images/book/discount.png" alt="">
+                                    <img src="assets/images/book/discount.png" alt="">
                                     <b>25</b>
                                 </div>
                                 <div class="MobailinsideDisc">
-                                    <img src="assetc/images/book/insideDisc.png" alt="">
+                                    <img src="assets/images/book/insideDisc.png" alt="">
                                 </div>
                                
                             </div>
@@ -4164,14 +4164,14 @@
                         <a href="#">
                             <div class="Mobailbook-img-wrap">
                                 <div class="bookimg">
-                                    <img src="assetc/images/book/mukush.png" alt="">
+                                    <img src="assets/images/book/mukush.png" alt="">
                                 </div>
                                 <div class="Mobaildiscount-badge">
-                                    <img src="assetc/images/book/discount.png" alt="">
+                                    <img src="assets/images/book/discount.png" alt="">
                                     <b>25</b>
                                 </div>
                                 <div class="MobailinsideDisc">
-                                    <img src="assetc/images/book/insideDisc.png" alt="">
+                                    <img src="assets/images/book/insideDisc.png" alt="">
                                 </div>
                                
                             </div>
@@ -4205,14 +4205,14 @@
                         <a href="#">
                             <div class="Mobailbook-img-wrap">
                                 <div class="bookimg">
-                                    <img src="assetc/images/book/mukush.png" alt="">
+                                    <img src="assets/images/book/mukush.png" alt="">
                                 </div>
                                 <div class="Mobaildiscount-badge">
-                                    <img src="assetc/images/book/discount.png" alt="">
+                                    <img src="assets/images/book/discount.png" alt="">
                                     <b>25</b>
                                 </div>
                                 <div class="MobailinsideDisc">
-                                    <img src="assetc/images/book/insideDisc.png" alt="">
+                                    <img src="assets/images/book/insideDisc.png" alt="">
                                 </div>
                                
                             </div>
@@ -4248,14 +4248,14 @@
                         <a href="#">
                             <div class="Mobailbook-img-wrap">
                                 <div class="bookimg">
-                                    <img src="assetc/images/book/mukush.png" alt="">
+                                    <img src="assets/images/book/mukush.png" alt="">
                                 </div>
                                 <div class="Mobaildiscount-badge">
-                                    <img src="assetc/images/book/discount.png" alt="">
+                                    <img src="assets/images/book/discount.png" alt="">
                                     <b>25</b>
                                 </div>
                                 <div class="MobailinsideDisc">
-                                    <img src="assetc/images/book/insideDisc.png" alt="">
+                                    <img src="assets/images/book/insideDisc.png" alt="">
                                 </div>
                                
                             </div>
@@ -4334,14 +4334,14 @@
                         <a href="#">
                             <div class="Mobailbook-img-wrap">
                                 <div class="bookimg">
-                                    <img src="assetc/images/book/mukush.png" alt="">
+                                    <img src="assets/images/book/mukush.png" alt="">
                                 </div>
                                 <div class="Mobaildiscount-badge">
-                                    <img src="assetc/images/book/discount.png" alt="">
+                                    <img src="assets/images/book/discount.png" alt="">
                                     <b>25</b>
                                 </div>
                                 <div class="MobailinsideDisc">
-                                    <img src="assetc/images/book/insideDisc.png" alt="">
+                                    <img src="assets/images/book/insideDisc.png" alt="">
                                 </div>
                                
                             </div>
@@ -4375,14 +4375,14 @@
                         <a href="#">
                             <div class="Mobailbook-img-wrap">
                                 <div class="bookimg">
-                                    <img src="assetc/images/book/mukush.png" alt="">
+                                    <img src="assets/images/book/mukush.png" alt="">
                                 </div>
                                 <div class="Mobaildiscount-badge">
-                                    <img src="assetc/images/book/discount.png" alt="">
+                                    <img src="assets/images/book/discount.png" alt="">
                                     <b>25</b>
                                 </div>
                                 <div class="MobailinsideDisc">
-                                    <img src="assetc/images/book/insideDisc.png" alt="">
+                                    <img src="assets/images/book/insideDisc.png" alt="">
                                 </div>
                                
                             </div>
@@ -4416,14 +4416,14 @@
                         <a href="#">
                             <div class="Mobailbook-img-wrap">
                                 <div class="bookimg">
-                                    <img src="assetc/images/book/mukush.png" alt="">
+                                    <img src="assets/images/book/mukush.png" alt="">
                                 </div>
                                 <div class="Mobaildiscount-badge">
-                                    <img src="assetc/images/book/discount.png" alt="">
+                                    <img src="assets/images/book/discount.png" alt="">
                                     <b>25</b>
                                 </div>
                                 <div class="MobailinsideDisc">
-                                    <img src="assetc/images/book/insideDisc.png" alt="">
+                                    <img src="assets/images/book/insideDisc.png" alt="">
                                 </div>
                                
                             </div>
@@ -4459,14 +4459,14 @@
                         <a href="#">
                             <div class="Mobailbook-img-wrap">
                                 <div class="bookimg">
-                                    <img src="assetc/images/book/mukush.png" alt="">
+                                    <img src="assets/images/book/mukush.png" alt="">
                                 </div>
                                 <div class="Mobaildiscount-badge">
-                                    <img src="assetc/images/book/discount.png" alt="">
+                                    <img src="assets/images/book/discount.png" alt="">
                                     <b>25</b>
                                 </div>
                                 <div class="MobailinsideDisc">
-                                    <img src="assetc/images/book/insideDisc.png" alt="">
+                                    <img src="assets/images/book/insideDisc.png" alt="">
                                 </div>
                                
                             </div>
@@ -4810,14 +4810,14 @@
                     <a href="#">
                         <div class="Mobailbook-img-wrap">
                             <div class="bookimg">
-                                <img src="assetc/images/book/mukush.png" alt="">
+                                <img src="assets/images/book/mukush.png" alt="">
                             </div>
                             <div class="Mobaildiscount-badge">
-                                <img src="assetc/images/book/discount.png" alt="">
+                                <img src="assets/images/book/discount.png" alt="">
                                 <b>25</b>
                             </div>
                             <div class="MobailinsideDisc">
-                                <img src="assetc/images/book/insideDisc.png" alt="">
+                                <img src="assets/images/book/insideDisc.png" alt="">
                             </div>
                            
                         </div>
@@ -4851,14 +4851,14 @@
                     <a href="#">
                         <div class="Mobailbook-img-wrap">
                             <div class="bookimg">
-                                <img src="assetc/images/book/mukush.png" alt="">
+                                <img src="assets/images/book/mukush.png" alt="">
                             </div>
                             <div class="Mobaildiscount-badge">
-                                <img src="assetc/images/book/discount.png" alt="">
+                                <img src="assets/images/book/discount.png" alt="">
                                 <b>25</b>
                             </div>
                             <div class="MobailinsideDisc">
-                                <img src="assetc/images/book/insideDisc.png" alt="">
+                                <img src="assets/images/book/insideDisc.png" alt="">
                             </div>
                            
                         </div>
@@ -4892,14 +4892,14 @@
                     <a href="#">
                         <div class="Mobailbook-img-wrap">
                             <div class="bookimg">
-                                <img src="assetc/images/book/mukush.png" alt="">
+                                <img src="assets/images/book/mukush.png" alt="">
                             </div>
                             <div class="Mobaildiscount-badge">
-                                <img src="assetc/images/book/discount.png" alt="">
+                                <img src="assets/images/book/discount.png" alt="">
                                 <b>25</b>
                             </div>
                             <div class="MobailinsideDisc">
-                                <img src="assetc/images/book/insideDisc.png" alt="">
+                                <img src="assets/images/book/insideDisc.png" alt="">
                             </div>
                            
                         </div>
@@ -4935,14 +4935,14 @@
                     <a href="#">
                         <div class="Mobailbook-img-wrap">
                             <div class="bookimg">
-                                <img src="assetc/images/book/mukush.png" alt="">
+                                <img src="assets/images/book/mukush.png" alt="">
                             </div>
                             <div class="Mobaildiscount-badge">
-                                <img src="assetc/images/book/discount.png" alt="">
+                                <img src="assets/images/book/discount.png" alt="">
                                 <b>25</b>
                             </div>
                             <div class="MobailinsideDisc">
-                                <img src="assetc/images/book/insideDisc.png" alt="">
+                                <img src="assets/images/book/insideDisc.png" alt="">
                             </div>
                            
                         </div>
@@ -4999,14 +4999,14 @@
                     <a href="#">
                         <div class="Mobailbook-img-wrap">
                             <div class="bookimg">
-                                <img src="assetc/images/book/mukush.png" alt="">
+                                <img src="assets/images/book/mukush.png" alt="">
                             </div>
                             <div class="Mobaildiscount-badge">
-                                <img src="assetc/images/book/discount.png" alt="">
+                                <img src="assets/images/book/discount.png" alt="">
                                 <b>25</b>
                             </div>
                             <div class="MobailinsideDisc">
-                                <img src="assetc/images/book/insideDisc.png" alt="">
+                                <img src="assets/images/book/insideDisc.png" alt="">
                             </div>
                            
                         </div>
@@ -5040,14 +5040,14 @@
                     <a href="#">
                         <div class="Mobailbook-img-wrap">
                             <div class="bookimg">
-                                <img src="assetc/images/book/mukush.png" alt="">
+                                <img src="assets/images/book/mukush.png" alt="">
                             </div>
                             <div class="Mobaildiscount-badge">
-                                <img src="assetc/images/book/discount.png" alt="">
+                                <img src="assets/images/book/discount.png" alt="">
                                 <b>25</b>
                             </div>
                             <div class="MobailinsideDisc">
-                                <img src="assetc/images/book/insideDisc.png" alt="">
+                                <img src="assets/images/book/insideDisc.png" alt="">
                             </div>
                            
                         </div>
@@ -5081,14 +5081,14 @@
                     <a href="#">
                         <div class="Mobailbook-img-wrap">
                             <div class="bookimg">
-                                <img src="assetc/images/book/mukush.png" alt="">
+                                <img src="assets/images/book/mukush.png" alt="">
                             </div>
                             <div class="Mobaildiscount-badge">
-                                <img src="assetc/images/book/discount.png" alt="">
+                                <img src="assets/images/book/discount.png" alt="">
                                 <b>25</b>
                             </div>
                             <div class="MobailinsideDisc">
-                                <img src="assetc/images/book/insideDisc.png" alt="">
+                                <img src="assets/images/book/insideDisc.png" alt="">
                             </div>
                            
                         </div>
@@ -5124,14 +5124,14 @@
                     <a href="#">
                         <div class="Mobailbook-img-wrap">
                             <div class="bookimg">
-                                <img src="assetc/images/book/mukush.png" alt="">
+                                <img src="assets/images/book/mukush.png" alt="">
                             </div>
                             <div class="Mobaildiscount-badge">
-                                <img src="assetc/images/book/discount.png" alt="">
+                                <img src="assets/images/book/discount.png" alt="">
                                 <b>25</b>
                             </div>
                             <div class="MobailinsideDisc">
-                                <img src="assetc/images/book/insideDisc.png" alt="">
+                                <img src="assets/images/book/insideDisc.png" alt="">
                             </div>
                            
                         </div>
@@ -5178,7 +5178,7 @@
         <div class="row">
             <div class="col-md-12">
                 <a href="#">
-                    <img src="assetc/images/offer.gif" alt="">
+                    <img src="assets/images/offer.gif" alt="">
                 </a>
             </div>
         </div>
@@ -5200,14 +5200,14 @@
                     <a href="#">
                         <div class="Mobailbook-img-wrap">
                             <div class="bookimg">
-                                <img src="assetc/images/book/mukush.png" alt="">
+                                <img src="assets/images/book/mukush.png" alt="">
                             </div>
                             <div class="Mobaildiscount-badge">
-                                <img src="assetc/images/book/discount.png" alt="">
+                                <img src="assets/images/book/discount.png" alt="">
                                 <b>25</b>
                             </div>
                             <div class="MobailinsideDisc">
-                                <img src="assetc/images/book/insideDisc.png" alt="">
+                                <img src="assets/images/book/insideDisc.png" alt="">
                             </div>
                            
                         </div>
@@ -5241,14 +5241,14 @@
                     <a href="#">
                         <div class="Mobailbook-img-wrap">
                             <div class="bookimg">
-                                <img src="assetc/images/book/mukush.png" alt="">
+                                <img src="assets/images/book/mukush.png" alt="">
                             </div>
                             <div class="Mobaildiscount-badge">
-                                <img src="assetc/images/book/discount.png" alt="">
+                                <img src="assets/images/book/discount.png" alt="">
                                 <b>25</b>
                             </div>
                             <div class="MobailinsideDisc">
-                                <img src="assetc/images/book/insideDisc.png" alt="">
+                                <img src="assets/images/book/insideDisc.png" alt="">
                             </div>
                            
                         </div>
@@ -5282,14 +5282,14 @@
                     <a href="#">
                         <div class="Mobailbook-img-wrap">
                             <div class="bookimg">
-                                <img src="assetc/images/book/mukush.png" alt="">
+                                <img src="assets/images/book/mukush.png" alt="">
                             </div>
                             <div class="Mobaildiscount-badge">
-                                <img src="assetc/images/book/discount.png" alt="">
+                                <img src="assets/images/book/discount.png" alt="">
                                 <b>25</b>
                             </div>
                             <div class="MobailinsideDisc">
-                                <img src="assetc/images/book/insideDisc.png" alt="">
+                                <img src="assets/images/book/insideDisc.png" alt="">
                             </div>
                            
                         </div>
@@ -5325,14 +5325,14 @@
                     <a href="#">
                         <div class="Mobailbook-img-wrap">
                             <div class="bookimg">
-                                <img src="assetc/images/book/mukush.png" alt="">
+                                <img src="assets/images/book/mukush.png" alt="">
                             </div>
                             <div class="Mobaildiscount-badge">
-                                <img src="assetc/images/book/discount.png" alt="">
+                                <img src="assets/images/book/discount.png" alt="">
                                 <b>25</b>
                             </div>
                             <div class="MobailinsideDisc">
-                                <img src="assetc/images/book/insideDisc.png" alt="">
+                                <img src="assets/images/book/insideDisc.png" alt="">
                             </div>
                            
                         </div>
@@ -5385,77 +5385,77 @@
                 <div class="col-md-12">
                     <div class="writerWarp">
                         <a href="#">
-                            <img src="assetc/images/lekok/humayun_ahmed_9-1912050914.jpg" alt="">
+                            <img src="assets/images/lekok/humayun_ahmed_9-1912050914.jpg" alt="">
                         </a>
                     </div>
                 </div>
                 <div class="col-md-12">
                     <div class="writerWarp">
                         <a href="#">
-                            <img src="assetc/images/lekok/IslamKaziNazrul.jpg" alt="">
+                            <img src="assets/images/lekok/IslamKaziNazrul.jpg" alt="">
                         </a>
                     </div>
                 </div>
                 <div class="col-md-12">
                     <div class="writerWarp">
                         <a href="#">
-                            <img src="assetc/images/lekok/mujib.jpg" alt="">
+                            <img src="assets/images/lekok/mujib.jpg" alt="">
                         </a>
                     </div>
                 </div>
                 <div class="col-md-12">
                     <div class="writerWarp">
                         <a href="#">
-                            <img src="assetc/images/lekok/munjera.jpg" alt="">
+                            <img src="assets/images/lekok/munjera.jpg" alt="">
                         </a>
                     </div>
                 </div>
                 <div class="col-md-12">
                     <div class="writerWarp">
                         <a href="#">
-                            <img src="assetc/images/lekok/rabindranath-tagore.jpg" alt="">
+                            <img src="assets/images/lekok/rabindranath-tagore.jpg" alt="">
                         </a>
                     </div>
                 </div>
                 <div class="col-md-12">
                     <div class="writerWarp">
                         <a href="#">
-                            <img src="assetc/images/lekok/shanaz.jpeg" alt="">
+                            <img src="assets/images/lekok/shanaz.jpeg" alt="">
                         </a>
                     </div>
                 </div>
                 <div class="col-md-12">
                     <div class="writerWarp">
                         <a href="#">
-                            <img src="assetc/images/lekok/Tabassum.jpg" alt="">
+                            <img src="assets/images/lekok/Tabassum.jpg" alt="">
                         </a>
                     </div>
                 </div>
                 <div class="col-md-12">
                     <div class="writerWarp">
                         <a href="#">
-                            <img src="assetc/images/lekok/tahasan.jpg" alt="">
+                            <img src="assets/images/lekok/tahasan.jpg" alt="">
                         </a>
                     </div>
                 </div>
                 <div class="col-md-12">
                     <div class="writerWarp">
                         <a href="#">
-                            <img src="assetc/images/lekok/writer.jpg" alt="">
+                            <img src="assets/images/lekok/writer.jpg" alt="">
                         </a>
                     </div>
                 </div>
                 <div class="col-md-12">
                     <div class="writerWarp">
                         <a href="#">
-                            <img src="assetc/images/lekok/writer1.jpg" alt="">
+                            <img src="assets/images/lekok/writer1.jpg" alt="">
                         </a>
                     </div>
                 </div>
                 <div class="col-md-12">
                     <div class="writerWarp">
                         <a href="#">
-                            <img src="assetc/images/lekok/wruter2.jpg" alt="">
+                            <img src="assets/images/lekok/wruter2.jpg" alt="">
                         </a>
                     </div>
                 </div>
@@ -5499,77 +5499,77 @@
                 <div class="col-md-12">
                     <div class="writerWarp">
                         <a href="#">
-                            <img src="assetc/images/lekok/humayun_ahmed_9-1912050914.jpg" alt="">
+                            <img src="assets/images/lekok/humayun_ahmed_9-1912050914.jpg" alt="">
                         </a>
                     </div>
                 </div>
                 <div class="col-md-12">
                     <div class="writerWarp">
                         <a href="#">
-                            <img src="assetc/images/lekok/IslamKaziNazrul.jpg" alt="">
+                            <img src="assets/images/lekok/IslamKaziNazrul.jpg" alt="">
                         </a>
                     </div>
                 </div>
                 <div class="col-md-12">
                     <div class="writerWarp">
                         <a href="#">
-                            <img src="assetc/images/lekok/mujib.jpg" alt="">
+                            <img src="assets/images/lekok/mujib.jpg" alt="">
                         </a>
                     </div>
                 </div>
                 <div class="col-md-12">
                     <div class="writerWarp">
                         <a href="#">
-                            <img src="assetc/images/lekok/munjera.jpg" alt="">
+                            <img src="assets/images/lekok/munjera.jpg" alt="">
                         </a>
                     </div>
                 </div>
                 <div class="col-md-12">
                     <div class="writerWarp">
                         <a href="#">
-                            <img src="assetc/images/lekok/rabindranath-tagore.jpg" alt="">
+                            <img src="assets/images/lekok/rabindranath-tagore.jpg" alt="">
                         </a>
                     </div>
                 </div>
                 <div class="col-md-12">
                     <div class="writerWarp">
                         <a href="#">
-                            <img src="assetc/images/lekok/shanaz.jpeg" alt="">
+                            <img src="assets/images/lekok/shanaz.jpeg" alt="">
                         </a>
                     </div>
                 </div>
                 <div class="col-md-12">
                     <div class="writerWarp">
                         <a href="#">
-                            <img src="assetc/images/lekok/Tabassum.jpg" alt="">
+                            <img src="assets/images/lekok/Tabassum.jpg" alt="">
                         </a>
                     </div>
                 </div>
                 <div class="col-md-12">
                     <div class="writerWarp">
                         <a href="#">
-                            <img src="assetc/images/lekok/tahasan.jpg" alt="">
+                            <img src="assets/images/lekok/tahasan.jpg" alt="">
                         </a>
                     </div>
                 </div>
                 <div class="col-md-12">
                     <div class="writerWarp">
                         <a href="#">
-                            <img src="assetc/images/lekok/writer.jpg" alt="">
+                            <img src="assets/images/lekok/writer.jpg" alt="">
                         </a>
                     </div>
                 </div>
                 <div class="col-md-12">
                     <div class="writerWarp">
                         <a href="#">
-                            <img src="assetc/images/lekok/writer1.jpg" alt="">
+                            <img src="assets/images/lekok/writer1.jpg" alt="">
                         </a>
                     </div>
                 </div>
                 <div class="col-md-12">
                     <div class="writerWarp">
                         <a href="#">
-                            <img src="assetc/images/lekok/wruter2.jpg" alt="">
+                            <img src="assets/images/lekok/wruter2.jpg" alt="">
                         </a>
                     </div>
                 </div>
@@ -5687,77 +5687,77 @@
                 <div class="col-md-12">
                     <div class="RecentWrap">
                         <a href="#">
-                            <img src="assetc/images/book/mukush.png" alt="">
+                            <img src="assets/images/book/mukush.png" alt="">
                         </a>
                     </div>
                 </div>
                 <div class="col-md-12">
                     <div class="RecentWrap">
                         <a href="#">
-                            <img src="assetc/images/book/mukush.png" alt="">
+                            <img src="assets/images/book/mukush.png" alt="">
                         </a>
                     </div>
                 </div>
                 <div class="col-md-12">
                     <div class="RecentWrap">
                         <a href="#">
-                            <img src="assetc/images/book/mukush.png" alt="">
+                            <img src="assets/images/book/mukush.png" alt="">
                         </a>
                     </div>
                 </div>
                 <div class="col-md-12">
                     <div class="RecentWrap">
                         <a href="#">
-                            <img src="assetc/images/book/mukush.png" alt="">
+                            <img src="assets/images/book/mukush.png" alt="">
                         </a>
                     </div>
                 </div>
                 <div class="col-md-12">
                     <div class="RecentWrap">
                         <a href="#">
-                            <img src="assetc/images/book/mukush.png" alt="">
+                            <img src="assets/images/book/mukush.png" alt="">
                         </a>
                     </div>
                 </div>
                 <div class="col-md-12">
                     <div class="RecentWrap">
                         <a href="#">
-                            <img src="assetc/images/book/mukush.png" alt="">
+                            <img src="assets/images/book/mukush.png" alt="">
                         </a>
                     </div>
                 </div>
                 <div class="col-md-12">
                     <div class="RecentWrap">
                         <a href="#">
-                            <img src="assetc/images/book/mukush.png" alt="">
+                            <img src="assets/images/book/mukush.png" alt="">
                         </a>
                     </div>
                 </div>
                 <div class="col-md-12">
                     <div class="RecentWrap">
                         <a href="#">
-                            <img src="assetc/images/book/mukush.png" alt="">
+                            <img src="assets/images/book/mukush.png" alt="">
                         </a>
                     </div>
                 </div>
                 <div class="col-md-12">
                     <div class="RecentWrap">
                         <a href="#">
-                            <img src="assetc/images/book/mukush.png" alt="">
+                            <img src="assets/images/book/mukush.png" alt="">
                         </a>
                     </div>
                 </div>
                 <div class="col-md-12">
                     <div class="RecentWrap">
                         <a href="#">
-                            <img src="assetc/images/book/mukush.png" alt="">
+                            <img src="assets/images/book/mukush.png" alt="">
                         </a>
                     </div>
                 </div>
                 <div class="col-md-12">
                     <div class="RecentWrap">
                         <a href="#">
-                            <img src="assetc/images/book/mukush.png" alt="">
+                            <img src="assets/images/book/mukush.png" alt="">
                         </a>
                     </div>
                 </div>
@@ -5773,13 +5773,13 @@
             <h3>Recent Review </h3>
         </div>
         <div class="MovailRecenImgWidth">
-            <img src="assetc/images/book/mukush.png" alt="">
+            <img src="assets/images/book/mukush.png" alt="">
         </div>
         <div class="MovailRecenImgWidth">
-            <img src="assetc/images/book/mukush.png" alt="">
+            <img src="assets/images/book/mukush.png" alt="">
         </div>
         <div class="MovailRecenImgWidth">
-            <img src="assetc/images/book/mukush.png" alt="">
+            <img src="assets/images/book/mukush.png" alt="">
         </div>
     </div>
 
@@ -5794,18 +5794,18 @@
             <div class="col-md-12">
                 <div class="app-icon">
                     <p class="title">
-                      <img src="assetc/images/socail/icon-rok.png" alt="icon">
+                      <img src="assets/images/socail/icon-rok.png" alt="icon">
                       <span>Download App</span>
                 
                     </p>
                    <div class="DwonloadSection">
                         <center>
                             <a target="_blank" href="#">
-                                <img src="assetc/images/socail/icon-app-store.png" alt="app-store" width="125">
+                                <img src="assets/images/socail/icon-app-store.png" alt="app-store" width="125">
                           
                               </a>
                               <a target="_blank" href="#">
-                                <img src="assetc/images/socail/icon-play-store.png" alt="play-store" width="125">
+                                <img src="assets/images/socail/icon-play-store.png" alt="play-store" width="125">
                           
                               </a>
                         </center>

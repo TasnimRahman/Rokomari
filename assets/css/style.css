@@ -240,6 +240,11 @@ hr{
     display: inline-block;
     padding-bottom: 6px;
 }
+.wrap .navi ul li a span{
+    margin-bottom: -5px;
+    font-size: 50%;
+    color: #666666;
+}
 a.active {
     border: 1.5px solid #3895d394;
     border-bottom: 2px solid white !important;
@@ -298,6 +303,7 @@ nav .wrapper{
     opacity: 1;
     display: flex;
 }
+
 
 .nav-links li:nth-child(4) a {
     color: tomato;

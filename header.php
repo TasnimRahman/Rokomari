@@ -6,22 +6,22 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Buy Book Online - Best Online Book Shop in Bangladesh | Rokomari.com</title>
     <!-- favicon link -->
-	<link rel="shortcut icon" href="assetc/images/fav.png" type="image/x-icon"  sizes="16x16"/>
+	<link rel="shortcut icon" href="assets/images/fav.png" type="image/x-icon"  sizes="16x16"/>
 
 	<!-- bootstrap css link -->
 	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css" integrity="sha384-TX8t27EcRE3e/ihU7zmQxVncDAy5uIKz4rEkgIXeMed4M0jlfIDPvg6uqKI2xXr2" crossorigin="anonymous">
 	<!-- 	stylesheet link -->
-	<link rel="stylesheet" type="text/css" href="assetc/css/style.css" media="all" />
+	<link rel="stylesheet" type="text/css" href="assets/css/style.css" media="all" />
 		<!-- 	responsive link -->
-	<link rel="stylesheet" type="text/css" href="assetc/css/responsive.css" media="all" />
+	<link rel="stylesheet" type="text/css" href="assets/css/responsive.css" media="all" />
     <!-- Nivo Slider Css Link -->
-    <link rel="stylesheet" href="assetc/css/nevo-default.css">
-    <link rel="stylesheet" href="assetc/css/nivo-slider.css">
+    <link rel="stylesheet" href="assets/css/nevo-default.css">
+    <link rel="stylesheet" href="assets/css/nivo-slider.css">
     <!-- Slick Slider Css Link -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.css" integrity="sha512-yHknP1/AwR+yx26cB1y0cjvQUMvEa2PFzt1c9LlS4pRQ5NOTZFWbhBig+X9G9eYW/8m0/4OXNx8pxJ6z57x0dw==" crossorigin="anonymous" />
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick-theme.min.css" integrity="sha512-17EgCFERpgZKcm0j0fEq1YCJuyAWdz9KUtv1EjVuaOz8pDnh/0nZxmU6BBXwaaxqoi9PQXnRWqlcDB027hgv9A==" crossorigin="anonymous" />
 	<!-- Hover Css Link -->
-    <link rel="stylesheet" href="assetc/css/hover.css">
+    <link rel="stylesheet" href="assets/css/hover.css">
     <!-- fontawosme link -->
 	<script src="https://kit.fontawesome.com/8dcb513de9.js" crossorigin="anonymous"></script>
 	<!-- google font link -->
@@ -39,7 +39,7 @@
                 <div class="row">
                     <div class="col-md-2">
                         <div class="top-menu-logo">
-                            <a href="index.php"><img src="assetc/images/logo.png" alt="logo"></a>
+                            <a href="index.php"><img src="assets/images/logo.png" alt="logo"></a>
                         </div>
                     </div>
                     <div class="col-md-7">
@@ -78,7 +78,7 @@
                         <li><a href="#" class="active">বই</a></li>
                         <li><a href="#">ইলেকট্রনিক্স</a></li>
                         <li><a href="#">স্টেশনারি ও অন্যান্য</a></li>
-                        <li><a href="#"> <img src="assetc/images/gift.png" alt="gift"> গিফট ফাইন্ডার</a></li>
+                        <li><a href="#"> <img src="assets/images/gift.png" alt="gift"> গিফট ফাইন্ডার</a></li>
                         <li><a href="#">প্রাতিষ্ঠানিক অর্ডার</a></li>
                         <li><a href="#">অফারসমূহ</a></li>
                         <li><a href="#">ব্লগ</a></li>
@@ -307,7 +307,7 @@
                     <span id="MobailSideNavBtn" style="font-size:30px;cursor:pointer" onclick="stickyNav()">&#9776; </span>
                 </div>
                 <div id="stickylogonone" class="mobail-NavLogo">
-                   <a href="#"><img src="assetc/images/logo.png " alt=""></a>
+                   <a href="#"><img src="assets/images/logo.png " alt=""></a>
                    
                 </div>
                 <div id="stickySearchBar"  class="SarcheBarSticky">
